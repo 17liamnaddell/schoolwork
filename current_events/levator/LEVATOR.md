@@ -8,7 +8,7 @@
   1. If anybody can put a statue, a prankster can put a statue up
   1. A satanist church is building molds so that they can manufacture these statues, dumping them on government property
 
-1st reason: At the rate we are going at, any religiously aphiliated statue could be put up on government property.
+1. 1st reason: At the rate we are going at, any religiously aphiliated statue could be put up on government property.
 1. reason1
 
 ##Notes
