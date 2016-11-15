@@ -19,6 +19,19 @@ End fox news source
 1. A judge ruled in september that religious pamphlets can be handed out at public schools in orange county florida. 
 1. In december a chapter of the Satanic Temple was allowed to display a fallen angel in florida next to a flying spaghetti Monster worshipping Pastafarians and a Festivus pole made of beer cans
 1. ![satan][satan]
-
-
 [satan]: satan.jpg
+
+End Mother Jones source
+
+---
+
+[satan2]: cancer.jpg
+1. ![satan2][satan2]
+1. 50,000 members in chapters around the world
+1. name:TST
+1. Go to random school districts to try and stop prayer and christian clubs
+1. you will have to pay to view the statue
+1. They want to stop Christians from evangelizing by suing people 
+
+---
+
