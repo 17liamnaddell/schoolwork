@@ -2,14 +2,29 @@
 
 ##SPEECH
 
-1. __Imagine a world, where you go to a court room, or to the DMV or any other government property, without seeing a statue of Satan.__ It would be so frustrating and it would let pranksters put anything up on government property. 
+1. _Imagine a world, where you go to a court room, or to the DMV or any other government property, without seeing a statue of Satan._ It would be so frustrating and it would let pranksters put anything up on government property. 
 1. We should not allow these statues for three reasons
   1. At the rate we are going at, any religiously aphiliated statue could be put on government property, 
   1. If anybody can put a statue, a prankster can put a statue up
   1. A satanist church is building molds so that they can manufacture these statues, dumping them on government property
 
-2. 1st reason: At the rate we are going at, any religiously aphiliated statue could be put up on government property.
-2. reason1
+1. 1st reason: At the rate we are going at, any religiously aphiliated statue could be put up on government property.
+  1. If you are allowed to sue the government of some states into accepting uncomfortable statues, then the church of satan will keep on suing
+  1. They are building molds, they are obviously planning on going the route above
+  1. Eventually people will just roll over and take it instead of going through some huge legal battle.
+
+
+1. 2nd reason: If anybody can put up a statue, a prankster could put up a statue
+  1. They could erect a statue of something 18+
+  1. They could erect a racist, or offensive message like `the jews did 9/11`
+  1. They could put up a gigantic statue that is not only unsightly, but requires a TON of space
+
+
+1. 3rd reason: People will dump statues on the population at large, as well as government property
+  1. The satanist church is already building molds for satanic statues, as mentioned earlier, so why would they stop at just a few state buildings with one statue each?
+  1. If they can cover buildings with satanic statues than that would be a disaster
+
+
 
 ##Notes
 1. Government is required to display privately donated religious monuments, even those honoring satan
