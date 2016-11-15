@@ -7,6 +7,10 @@
   1. At the rate we are going at, any religiously aphiliated statue could be put on government property, 
   1. If anybody can put a statue, a prankster can put a statue up
   1. A satanist church is building molds so that they can manufacture these statues, dumping them on government property
+
+1st reason: At the rate we are going at, any religiously aphiliated statue could be put up on government property.
+1. reason1
+
 ##Notes
 1. Government is required to display privately donated religious monuments, even those honoring satan
 1. Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. 
