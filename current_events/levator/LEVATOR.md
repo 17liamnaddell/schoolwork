@@ -16,4 +16,7 @@ End fox news source
 1. The supreme Court decided to allow christians and other religious groups to open court services with prayers
 1. A judge ruled in september that religious pamphlets can be handed out at public schools in orange county florida. 
 1. In december a chapter of the Satanic Temple was allowed to display a fallen angel in florida next to a flying spaghetti Monster worshipping Pastafarians and a Festivus pole made of beer cans
-1. ![satan][satan.jpg] 
+1. ![satan][satan]
+
+
+[satan]: satan.jpg
