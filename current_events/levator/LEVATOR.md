@@ -2,7 +2,7 @@
 
 ##SPEECH
 
-1. _Imagine a world, where you go to a court room, or to the DMV or any other government property, without seeing a statue of Satan._ It would be so frustrating and it would let pranksters put anything up on government property. 
+1. _Imagine a world, where you cannot go to a court room, or to the DMV or any other government property, without seeing a statue of Satan._ It would be so frustrating and it would let pranksters put anything up on government property. 
 1. We should not allow these statues for three reasons
   1. At the rate we are going at, any religiously aphiliated statue could be put on government property, 
   1. If anybody can put a statue, a prankster can put a statue up
