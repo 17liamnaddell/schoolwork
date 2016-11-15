@@ -8,11 +8,13 @@
 1. The government can veto a monument based off of the fact that it has no historical significance to the state
 1. Court case: Pleasant Grove City v. Summum
 1. The government is not speaking when it erects a monument, it's allowing a location for private individuals and groups to speak. Its not free speech if it's on somebody else's land. 
+
 ---
 
 End fox news source
 
 ---
+
 1. The supreme Court decided to allow christians and other religious groups to open court services with prayers
 1. A judge ruled in september that religious pamphlets can be handed out at public schools in orange county florida. 
 1. In december a chapter of the Satanic Temple was allowed to display a fallen angel in florida next to a flying spaghetti Monster worshipping Pastafarians and a Festivus pole made of beer cans
