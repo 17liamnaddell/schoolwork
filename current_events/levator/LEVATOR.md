@@ -1,5 +1,12 @@
 #My Elevator Speech
 
+##SPEECH
+
+1. __Imagine a world, where you go to a court room, or to the DMV or any other government property, without seeing a statue of Satan.__ It would be so frustrating and it would let pranksters put anything up on government property. 
+1. We should not allow these statues for three reasons
+  1. At the rate we are going at, any religiously aphiliated statue could be put on government property, 
+  1. If anybody can put a statue, a prankster can put a statue up
+  1. A satanist church is building molds so that they can manufacture these statues, dumping them on government property
 ##Notes
 1. Government is required to display privately donated religious monuments, even those honoring satan
 1. Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. 
@@ -25,7 +32,7 @@ End Mother Jones source
 
 ---
 
-[satan2]: cancer.jpg
+[satan2]: satan2.jpg
 1. ![satan2][satan2]
 1. 50,000 members in chapters around the world
 1. name:TST
