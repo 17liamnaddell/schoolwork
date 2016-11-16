@@ -23,7 +23,11 @@
 1. 3rd reason: People will dump statues on the population at large, as well as government property
   1. The satanist church is already building molds for satanic statues, as mentioned earlier, so why would they stop at just a few state buildings with one statue each?
   1. If they can cover buildings with satanic statues than that would be a disaster
-
+1. Solution
+  1. Give any government building the power to reject any monument/statue that is requested to be put on government property without worry of being sued
+  1. Any statue that can be accepted has to signify a specific historical event that happened in the state and is significant
+  1. For example:
+    1. If in that area, near the government building, somebody held up a copy of the ten commandments, in that state, and stopped a battle, than a statue of the ten commandments would be appropriate 
 
 
 ##Notes
