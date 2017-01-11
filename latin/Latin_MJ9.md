@@ -77,5 +77,77 @@ Future tense = ero+to be verb
   1. fuerunt
 
 
-#Exercise 
+#Exercise 180
+1. Plural third
+  1. They had seen
+1. Plural third
+  1. they had submitted
+1. plural second
+  1. yall had heard 
+1. singular third
+  1. he had stayed
+1. plural third
+  1. they had frightened
+6. singlular third
+  1. he had submitted
+1. singular third
+  1. he had been
+1. plural first
+  1. we had advised
+9. singular third
+  1. he had filled
+1. plural first
+  1. we had fortified
+11.plural third
+  1. they had remained 
+1. plural third
+  1. they had sent 
+13.plural third
+  1. they had filled
+1. plural first
+  1. we had heared
+1. plural third
+  1. they had attacked
+16. singular second 
+  1. you have been
+1. singular second
+  1. you have praised
+1. singular third
+  1. he had defeated
+1. plural third
+  1. they had attacked
+20. plural third
+  1 they had prepared
+1. plural first
+  1. we had been
+1. singular second
+  1. you had praised
+1. singular third
+  1. he had put together
+24. plural third
+  1. they had advised
+1. plural first
+  1. we had sent
+26. singular third
+  1. he places
+1. singular first
+  1. you had been
+1. plural third
+  1. they had carried
+1. plural third
+  1. they had given in <- Gia XD
+1. plural third
+  1. they had overcome
+1. singular first
+  1. you had sent
+32.plural third
+  1. they had called
+1. plural third
+  1. you had been
+1. singular third
+  1. he was giving in
+1. plural third
+  1. they will sustain
+1. plural third
+  1. they had defended
 longest verb: appropingeravissemusne? We might have approached?
