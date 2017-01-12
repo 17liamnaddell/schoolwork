@@ -1,4 +1,4 @@
-|Sam parker|Cj "little"|
+|Sam Parker|CJ "Little"|
 |----------|-----------|
 |Starts raining|starts raining|
 |In a hurry|Hits sam with silver car|
