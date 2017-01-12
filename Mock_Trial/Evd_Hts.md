@@ -8,5 +8,4 @@
 |Terry ruins people's lives|Sam was wearing a helmet|
 |Bike darts infront of him|Cj was talking on the phone|
 |Sherrif says it's nobody's fault|Violating curfew|
-|Speedee is doing deleveries the next day, and hasn't learned
-a thing|Sherrif says that accedent was caused by CJ|
+|Speedee is doing deleveries the next day, and hasn't learned a thing|Sherrif says that accedent was caused by CJ|
