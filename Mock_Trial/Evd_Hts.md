@@ -1,5 +1,5 @@
 |Sam parker|Cj "little"|
-|----------|-----------|
+|-----:-----|------:-----|
 |Starts raining|starts raining|
 |In a hurry|Hits sam with silver car|
 |Almost ran into tybee cumberland|no horn heard|
