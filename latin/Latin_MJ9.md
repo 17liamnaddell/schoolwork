@@ -135,7 +135,7 @@ Future tense = ero+to be verb
 1. plural third
   1. they had carried
 1. plural third
-  1. they had given in <- Gia XD
+  1. they had given in
 1. plural third
   1. they had overcome
 1. singular first
