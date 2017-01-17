@@ -1,9 +1,9 @@
 
 THIS IS THE 4TH question for EXERCISE 6 
 
-|p|⊃|(q|⊃|r)|≡|(p|⊃|q)|⊃|r|
-|-|-|--|-|--|-|--|-|--|-|-|
-|T|T|T |T|T |T|T |T|T |T|T|
+| p | ⊃ | (q | ⊃ | r )| ≡ | (p | ⊃ | q) | ⊃ | r |
+|---|---|----|---|----|---|----|---|----|---|---|
+| T | T | T  | T | T  | T | T  | T | T  | T | T |
 |T|F|T |F|F |T|t |T|T |F|F|
 |t|T|F |T|T |F|t |F|F |F|T|
 |t|T|F |T|F |T|t |F|F |T|F|
