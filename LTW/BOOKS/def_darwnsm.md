@@ -10,7 +10,6 @@
     1. God is outside time and space
     1. God created the laws of physics
     1. Christians that don't know about evolutions hurt god's cause.
-  1. Refutation:
     1. The post creator thought that this issue was just a matter of
        time.
     1. St. Augustine, god is outside of time.
@@ -66,6 +65,61 @@
              are half creationists.
           1. The opposition=troublemakers
           1. I agree with the commonfolk(author)
+1. Chapter 2: inherit the wind
+  1. Darwin=dogmatism
+  1. Evolutionists are dismissive
+  1. Inherit the wind came out in 1925, scopes trial
+  1. Inherit the wind=stariotype of christians
+  1. Inherit the wind
+    1. Burt kates, science teacher
+    1. Jailed against violating state law on teaching darwinian theory
+    1. Love with Rachel Brown
+    1. RB = teacher, and daughter of local minister Rvn. Jerimiah
+       Brown
+    1. Visious bigiot that likes to damn people
+    1. Rachel: Conformist
+    1. Matthew Harrison Brady = prosecuting lawyer
+    1. Becomes broadcasted by media
+    1. Jourilist ek hornback, a journalist, comes with sarcasm and
+       cynicism
+    1. Townspeople sing about old time religion. 
+    1. Lawyer comes in with Journalist
+    1. Henery Drummand = defense lawyer
+    1. HD = steriotype good guy aethiest
+    1. Black and white morality
+    1. Christians = bad guys
+    1. Aethiests = good guys
+    1. Love and reason overcome predudice and bigotry
+    1. The bible and darwin can balance out. 
+  1. What really happened
+    1. DT wants to put itself on the map
+    1. They create a "Law" against teaching evolution
+    1. Gov. Assigns bill assuming law will not be inforced
+    1. A. Civil Liberities union puts aethiest teacher on fake trial.
+    1. Mock trial will be good for buisness
+    1. JTS = pe teacher as "defendant"
+    1. Never in danger of going to jail
+    1. It became a media circus
+    1. Brian Sees Darwinism abused to forward the leading people's
+       schemes
+    1. Dero hates religion, and wants to get rid of it. He denies that
+       his clients have free will, and cannot be held to their actions
+    1. Brian = Scientific Ignoramus
+  1. What the play means:
+    1. About modernist understanding of freedom
+    1. Once apon a time, earth was ruled by abusive Chrisitans
+    1. Then, the Darwinist heroes teach a philosophy, and free
+       humanity. 
+    1. Cinderella example
+    1. Bitter attack against stern Christians
+    1. Or people that see the bible as a reliable historical record. 
+    1. People seeing the movie became the citizens of DT
+    1. 
+TERMS:
+Clarence Dero = Defense lawyer, ignostic lecturer, good lawyer
+Brian = three time democratic PC and darwanist lawyer
+Dayton, Tennessee = where scopes trial happened
+Defendant=John T scopes
 
 bible verses:
 Isaiah 1:18-19
