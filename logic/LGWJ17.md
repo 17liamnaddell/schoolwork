@@ -21,6 +21,7 @@ Problem 10
 VALID
 
 Problem 11
+
 | J | ⊃ | M | ∴J |
 |---|---|---|----|
 | T | T | T |  T |
