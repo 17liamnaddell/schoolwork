@@ -16,9 +16,7 @@
 | CJLC    | Puts phone down             | Driving really fast |
 |         | Violating curfew            | Darts in front of car |
 |         | Sherrif says its nobody's fault | Violating curfew |
-| Jrdn R  | Speedee almost hits TC      | Madison parks car in middle
-of road | 
+| Jrdn R  | Speedee almost hits TC      | Madison parks car in middle of road | 
 |         | Speedee is fine tomarrow    | Cadallac and BMW chase |
 |         |                             | Sam gets hurt bad   |
-|         |                             | Sherrif says accedent was
-caused by CJ |
+|         |                             | Sherrif says accedent was caused by CJ |
