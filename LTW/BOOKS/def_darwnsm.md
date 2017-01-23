@@ -112,7 +112,7 @@
     1. Bitter attack against stern Christians
     1. Or people that see the bible as a reliable historical record. 
     1. People seeing the movie became the citizens of DT
-1.Chapter three
+1. Chapter three
   1. Evolutionists portray their science as fact, and any debate is
      unwinnable
   1. Debates are sometimes framed as such that evolution = fact and
