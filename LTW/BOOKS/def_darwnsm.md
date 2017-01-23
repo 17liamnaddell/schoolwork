@@ -69,23 +69,22 @@
   1. Darwin=dogmatism
   1. Evolutionists are dismissive
   1. Inherit the wind came out in 1925, scopes trial
-  1. Inherit the wind=stariotype of christians
+  1. Inherit the wind=stereotype of Christians
   1. Inherit the wind
-    1. Burt kates, science teacher
-    1. Jailed against violating state law on teaching darwinian theory
-    1. Love with Rachel Brown
-    1. RB = teacher, and daughter of local minister Rvn. Jerimiah
-       Brown
-    1. Visious bigiot that likes to damn people
+    1. Burt Kates, science teacher
+    1. Jailed against violating state law on teaching Darwinian theory
+    1. Love with Rachel Brown 
+    1. RB = teacher, and daughter of local minister Reverend Jerimiah Brown
+    1. Vicious bigot that likes to damn people
     1. Rachel: Conformist
     1. Matthew Harrison Brady = prosecuting lawyer
     1. Becomes broadcasted by media
-    1. Jourilist ek hornback, a journalist, comes with sarcasm and
+    1. journalist Ek hornback, a journalist, comes with sarcasm and
        cynicism
     1. Townspeople sing about old time religion. 
     1. Lawyer comes in with Journalist
     1. Henery Drummand = defense lawyer
-    1. HD = steriotype good guy aethiest
+    1. HD = stereotype good guy aetheist 
     1. Black and white morality
     1. Christians = bad guys
     1. Aethiests = good guys
@@ -102,8 +101,7 @@
     1. It became a media circus
     1. Brian Sees Darwinism abused to forward the leading people's
        schemes
-    1. Dero hates religion, and wants to get rid of it. He denies that
-       his clients have free will, and cannot be held to their actions
+    1. Dero hates religion, and wants to get rid of it. He denies that his clients have free will, and cannot be held to their actions
     1. Brian = Scientific Ignoramus
   1. What the play means:
     1. About modernist understanding of freedom
@@ -114,7 +112,25 @@
     1. Bitter attack against stern Christians
     1. Or people that see the bible as a reliable historical record. 
     1. People seeing the movie became the citizens of DT
-    1. 
+1.Chapter three
+  1. Evolutionists portray their science as fact, and any debate is
+     unwinnable
+  1. Debates are sometimes framed as such that evolution = fact and
+     creationism = iediology.
+  1. The author displays evolutionists as tyranists.
+  1. Example: 'the tyranny of evolution', 'evolution=neutral fact and
+     opposition=ridiculous'
+###NOTABLE
+The NABT defintion of evolution does NOT say that evolution excludes
+religion. It says that you cannot teach religion of any kind as
+science because religion is NOT science. 
+They say that religion is not science, therefore it should not be
+covered in a SCIENCE class
+THE NABT IN NO WAY TAKES ANY POSITION ON RELIGION AT ALL
+
+
+----
+
 TERMS:
 Clarence Dero = Defense lawyer, ignostic lecturer, good lawyer
 Brian = three time democratic PC and darwanist lawyer
@@ -130,5 +146,5 @@ You will eat the best of the land;
 
 
 
-`:∫-`
+
 
