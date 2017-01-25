@@ -13,3 +13,15 @@ Mid 1800's
 no, except for Rikki Tikki Tavi 
 
 Most of the time it describes the how the characters feel, if they feel younger or older
+
+
+##Writing practice 0 for my story
+
+
+My story will spend less time on narration
+
+More description
+More dialogue
+Probably around now
+I might
+Probably by indicating that a person has slept
