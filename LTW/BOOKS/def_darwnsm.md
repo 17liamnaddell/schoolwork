@@ -120,6 +120,11 @@
   1. The author displays evolutionists as tyranists.
   1. Example: 'the tyranny of evolution', 'evolution=neutral fact and
      opposition=ridiculous'
+1. Chapter four
+  1. says that scientists think that all people that appose evolution are idiots
+  1. genuine intelectual challenges to Darwinism 
+  1. scientists do not understand the difference between common design and naturalistic evolution
+  1.
 ###NOTABLE
 The NABT defintion of evolution does NOT say that evolution excludes
 religion. It says that you cannot teach religion of any kind as
