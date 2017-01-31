@@ -45,5 +45,16 @@ equivelent
 |  F  |  FT F     |
           ^contradiction
 
+5.
+
+C⊃Y CvY
+
+|  C⊃Y  |  CvY  |
+|-------|-------|
+|  TTT  |  TTT  |  <-no contradiction
+|  TFF  |  TTF  |  <-contradiction
+|  FTT  |  FTT  |  <-no contradiction
+|  FTF  |  FFF  |  <-contradiction
+
 
 
