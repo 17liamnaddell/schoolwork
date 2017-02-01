@@ -3,6 +3,7 @@
 ##Helps
   1. How fast was CJ going
   1. How long past curfew was CJ
+  
 ##Hurts
   1. How fast were you going
   1. How long past curfew were you?
@@ -12,6 +13,7 @@
 ##Helps
   1. How fast was CJ going?
   1. How bright were the headlights
+
 ##Hurts
   1. Was sam ever given a notice?
   1. Why was the flagpole not hurt?
@@ -42,6 +44,7 @@
 ##Helps
   1. Why is sam called speedee
   1. Why do your dogs hate sam?
+
 ##Hurts
   1. Why did you not help the accadent
   1. Has sam ever been given a notice for anything
@@ -51,6 +54,7 @@
 ##Helps
   1. How hard did it rain?
   1. Was the road slick?
+
 ##Hurts
   1. How did you get that the accident was caused by CJ?
   1. How close to the sherrif were you?
