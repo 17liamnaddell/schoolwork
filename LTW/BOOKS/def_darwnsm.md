@@ -124,7 +124,14 @@
   1. says that scientists think that all people that appose evolution are idiots
   1. genuine intelectual challenges to Darwinism 
   1. scientists do not understand the difference between common design and naturalistic evolution
-  1.
+1. Chapter 5
+  1. Human inventions come from whoever created us, intellegent design is nessicary because we as humans are intelligent 
+  1. had spat with people from evolutionist camp
+  1. They argue that the creator of the world is as stupid as the wind?
+  1. Lots of counters to evolution
+  1. Calls the evolution camp liars
+
+  1. These chapters are REALLY hard to understand, they are a mess of quotes, cross references, and such.
 ###NOTABLE
 The NABT defintion of evolution does NOT say that evolution excludes
 religion. It says that you cannot teach religion of any kind as
@@ -132,11 +139,18 @@ science because religion is NOT science.
 They say that religion is not science, therefore it should not be
 covered in a SCIENCE class
 THE NABT IN NO WAY TAKES ANY POSITION ON RELIGION AT ALL
+The third culture: George Williams
+George C. Williams, Natural Selection: Domains, Levels and Challenges
+River out of Eden by Richard Dawkins
+all MISC quotes
+Is Genetic Information Reducible by author
+
 
 
 ----
 
 TERMS:
+
 Clarence Dero = Defense lawyer, ignostic lecturer, good lawyer
 Brian = three time democratic PC and darwanist lawyer
 Dayton, Tennessee = where scopes trial happened
