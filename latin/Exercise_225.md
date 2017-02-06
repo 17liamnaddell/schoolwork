@@ -24,9 +24,16 @@
   1. often the enemey's chief was killed by the romans after the battle
 1. Principes a Caesare non dimittentur
   1. They are not sent away
-  1. The chiefs are not dismissed by caesar
+  1. The chiefs are not dismissed by Caesar
 1. Telis occiditur 
   1. he is killed by the dart
-1.  Miles Romanus hostem videt
+9.  Miles Romanus hostem videt
   1. he sees
   1. The roman foot soldier sees the enemy. He kills him with darts
+10. Milites undique ducentur; castra in colle ponentur; arma et frumentum in castra portabuntur
+  1. will bring 
+  1. the Soldiers will be brought from all sides
+  1. will put
+  1. the camp will be put in the mountains
+  1. they will carrying 
+  1. the grain and arms will be carried into the camp
