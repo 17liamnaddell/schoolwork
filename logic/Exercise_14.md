@@ -27,6 +27,7 @@
   6. 5,3 MP
   7. 6 Simp
 
+
 ##Exercise B
 
 1. G⊃O G⊃(G·O) Absorption
@@ -51,5 +52,25 @@ D⊃(F⊃E)
 |  FT TFF   |  TF  |  TFFFT  |
 
 Valid
+
+11.
+
+W⊃V V⊃T T ∴(T·V)
+
+|  W⊃V  |  V⊃T  |  T  |  ∴(T·V)  |
+|-------|-------|-----|----------|
+|  FTF  |  FTT  |  T  |    TFF   |
+
+12.
+
+((F·C)·S)⊃B ~B  S ~Cv~S
+
+|  ((F·C)·S)⊃B  |  ~B  |  S  |  ~Cv~S  |
+|---------------|------|-----|---------|
+|    TFF FT TF  |  TF  |  T  |  TFTFT  |
+
+no contradiction
+
+
 
 
