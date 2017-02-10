@@ -9,11 +9,12 @@ Weight:                   12 stones
 Hair color:               dirty blond but dyed black
 Eye color:                blue
 Skin color:               pale
-Family:                   Blue mini cooper with a "feel the bern sticker" otherwise normal
+Blood type:               Å 
+Family:                   Blue mini cooper with a "feel the Bern sticker" otherwise normal
 Education/Occupation:     new job at incubator
 Hometown:                 Bakersfield California
 Favorite color:           sandpaper yellow
-Favorite food:            cheeseless gluten free pizza
+Favorite food:            cheese-less gluten free pizza
 Favorite pastime:         lost fanfiction
 
 ##Mason
