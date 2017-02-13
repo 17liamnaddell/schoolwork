@@ -1,3 +1,20 @@
-1. esse
-2. fui
+1. sum
+  1. es
+  1. est
+  1. sumus
+  1. estis
+  1. sunt
+1. eram
+  1. eras
+  1. erat
+  1. eramus
+  1. eratis
+  1. erant
+2. ero
+  1. eris
+  1. erit
+  1. erimus
+  1. eritis
+  1. erunt
+
 3. futurus

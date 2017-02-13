@@ -47,17 +47,15 @@
 
 |                A               |                N               |                I               |
 |--------------------------------|--------------------------------|--------------------------------|
-|                                |                                | Manager of downtown drug store |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
+| Lived in Abbeville all life    | Had to talk to sam before      | Manager of downtown drug store |
+| It rained alot                 | Does not see crash             | Locks up store in evening      |
+| Lots of trash, he is dedicated |                                |                                |
+| Truck parked in middle of road |                                |                                |
+| Saw Jordan rawls               |                                |                                |
+| Sam is wearing helmet          |                                |                                |
+| Sherrif says its nobodys fault |                                |                                |
+| Sam fully recovers             |                                |                                |
+| Taken to hospital              |                                |                                |
 |                                |                                |                                |
 |                                |                                |                                |
 |                                |                                |                                |

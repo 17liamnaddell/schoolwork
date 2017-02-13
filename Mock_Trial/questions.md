@@ -6,7 +6,7 @@
   
 ##Hurts
   1. How fast were you going
-  1. How long past curfew were you?
+  1 How long past curfew were you?
 
 #Terry Benjamin
 
