@@ -9,25 +9,6 @@
 | Screaching sound before s\he went into street |                     |                     |
 | Didn't see any other cars before took shortcut |                     |                     |
 | Silver car speeding past me after I was hit |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
-|                     |                     |                     |
 
 2. Terry Benjamin
 
@@ -80,14 +61,3 @@
 | Sam had blacked out most likely |                                | Truck had bend in bumper       |
 | No obvious bias                |                                |                                |
 | Sam darted out from the side    |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
-|                                |                                |                                |
