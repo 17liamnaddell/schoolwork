@@ -132,6 +132,13 @@
   1. Calls the evolution camp liars
 
   1. These chapters are REALLY hard to understand, they are a mess of quotes, cross references, and such.
+1. Chapter 6
+  1. I hate this book
+  1. Pope's statement is reprinted in a letter
+    1. It says that the theory of evolution is "more than a theory" because it is supported by some level of fact
+    1. The theory of evolution is not questioned by the church, it gives the belivers indevidual opinion on that
+  1. Some person disagrees with him
+
 ###NOTABLE
 The NABT defintion of evolution does NOT say that evolution excludes
 religion. It says that you cannot teach religion of any kind as
