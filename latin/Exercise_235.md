@@ -16,7 +16,16 @@
   1. you were heard
 14. Vehementer territi eramus
   1. We had been greatly terrified
-15. 
-
+15. The military was equipped
+16. The books are sent
+17. The mountain was filled up by humans
+18. The darts had been prepared. 
+19. we were concured
+20. You were appaled
+21. You attacked the peace
+22. He is bringing the grain 
+23. he acts 
+24. The king is administering
+25. the Camp was moved
 26. The centurions had been called
 
