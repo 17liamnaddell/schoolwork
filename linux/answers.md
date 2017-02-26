@@ -16,6 +16,9 @@
   5. Fedora
   
 >A It relies on linux for the OS, then builds a GUI on top of it
+
+----
+
 #Beyond the Essentials.
 
 3. Which of the following is a notable difference between Linux and Mac OSX?
