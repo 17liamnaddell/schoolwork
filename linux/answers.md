@@ -40,7 +40,7 @@
 
 6. True or false: CentOS is a Linux distro with a long release cycle.
 
->I think?
+>true
 
 7. A linux text-mode login prompt reads         (one word)
 
@@ -53,3 +53,7 @@
 9. Pre-release software that's likely to contain bugs is known as             and       .
 
 >beta, alpha
+
+
+##Score
+100%
