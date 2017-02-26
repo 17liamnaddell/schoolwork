@@ -5,7 +5,9 @@
   C. creating menus in GUI programs
   D. Controlling access to the hard disk
   E. enabling programs to use a network
+
 >C Thats just plain stupid
+
 2. Which of the following is an example of an embedded Linux OS?
   A. Android
   B. SUSE
