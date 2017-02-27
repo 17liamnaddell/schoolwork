@@ -28,7 +28,6 @@
   1. Did it rain?
   1. Was sam parker fine afterwards
 
-
 #CJ
 
 ##Helps

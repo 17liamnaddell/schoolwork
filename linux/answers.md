@@ -19,7 +19,7 @@
 
 ----
 
-#Beyond the Essentials.
+##Beyond the Essentials.
 
 3. Which of the following is a notable difference between Linux and Mac OSX?
   1. Linux can run common GNU programs, whereas OSX cannot.
@@ -57,3 +57,59 @@
 
 ##Score
 100%
+
+
+
+#Test 2
+
+1. What type of multitasking does linux use?
+  1. Preemptive
+  1. Multi-user
+  1. Co-operative
+  1. Single-tasking
+  1. Single-user
+
+>A
+
+2. Which of the following is a characteristic of all open source software?
+  1. The software cannot be sold for a profit; it must be distributed free of charge
+  1. It must be distributed with both source code and binaries
+  1. Users are permitted to redistribute altered versions of the original software
+  1. The software was originally written at a college or university
+  1. The software must be written in an interpreted language that requires no compilation
+
+>C
+
+3. Which of the following programs is most likely to be installed and regularly used on a desktop computer that runs linux
+  1. Apache
+  1. Postfix
+  1. Android
+  1. Evolution
+  1. BIND
+
+>D
+
+4. T/F: VMS was a common OS on x86 PCs at the time Linux was created
+
+>false
+
+5. T/F: Some DVRs run Linux
+
+>T
+
+6. T/F: A linux computer being used as a server generally does not require X
+
+>T
+
+7. a Linux uses a          kernel design, as contrasted with a microkernel design
+
+>Monolithic
+
+8. A type of software that's destributed for free but that requres payment on the "honor system" if a person uses it is called          
+
+>Shareware
+
+9. A           computer is likely to run a word processor and a Web browser
+
+>Desktop
+
