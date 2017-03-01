@@ -61,3 +61,26 @@
 8. A type of software that's destributed for free but that requres payment on the "honor system" if a person uses it is called          
 9. A           computer is likely to run a word processor and a Web browser
 
+#Chapter 3
+
+1. Which of the following is not required in order for software to be certified as open source?
+  1. The license must not discriminate against people or groups of people
+  1. The license must not require that the software be distributed as part of a specific product
+  1. The license must require that changes be distributed under the same license
+  1. The program must come with source code, or the author must make it readily available on the internet
+  1. The license must automatically apply to anybody who acquires the software
+1. Which is true of Linux distributions as a whole?
+  1. They're covered by the GPL or BSD license, depending on the distribution
+  1. Sometimes, they may not be copied because of non-open source software
+  1. They may be copied only after software using the MIT license is removed
+  1. They all completely conform to the principals of the open source movement.
+  1. They all qualify as free software, as the FSF uses the term
+1. Which of the following is a key part of the FSF's philosophy?
+  1. Developers should use the latest version of the FSF's GPL
+  1. Users should have the right to modify free software and distribute it under a commercial license
+  1. Developers should write software only for free operating systems such as GNU/linux
+  1. Users should engage in civil disobedience by copying proprietary software
+  1. Users must have the right to use software as they see fit
+1. T/F: Copyright law governs the distribution of software in most countries
+1. T/F: The FSF's free software definition and the OSI's ten principals of open source software both require that users have the ability to
+   examine a program's workings--that is, its source code
