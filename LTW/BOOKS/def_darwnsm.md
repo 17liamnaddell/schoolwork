@@ -138,26 +138,20 @@
     1. It says that the theory of evolution is "more than a theory" because it is supported by some level of fact
     1. The theory of evolution is not questioned by the church, it gives the belivers indevidual opinion on that
   1. Some person disagrees with him
-
-###NOTABLE
-The NABT defintion of evolution does NOT say that evolution excludes
-religion. It says that you cannot teach religion of any kind as
-science because religion is NOT science. 
-They say that religion is not science, therefore it should not be
-covered in a SCIENCE class
-THE NABT IN NO WAY TAKES ANY POSITION ON RELIGION AT ALL
-The third culture: George Williams
-George C. Williams, Natural Selection: Domains, Levels and Challenges
-River out of Eden by Richard Dawkins
-all MISC quotes
-Is Genetic Information Reducible by author
-
-
+1. Chapter 7.
+  1. The supreme court decided that public schools should have no time for "prayer and meditation" because that encourages religion
+  1. This problem still rages on, and its the domination of naturalism over the world that is to blame
+  1. God should be taught in public schools
+  1. then some stuff about gays and lesbians
+1. Chapter 8
+  1. He calls evolution naturalistic bias
+  1. Christian colleges should teach anti-evolution courses
 
 ----
 
 TERMS:
 
+Stanley Miller's 1953 experiment is discussed in different book
 Clarence Dero = Defense lawyer, ignostic lecturer, good lawyer
 Brian = three time democratic PC and darwanist lawyer
 Dayton, Tennessee = where scopes trial happened
