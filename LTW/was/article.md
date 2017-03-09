@@ -11,7 +11,6 @@ This would be no problem in a working democracy, many pay taxes, ect. But our mo
 
 Now pay attention to the following.
 
-One report says that illegal immigrants cost ONE American taxpayer 2,000 dollars.
 All those billions of our tax money in the form of education (free!), health care (free!), law enforcement and social services (free!) went to the illegal aliens and their dependants.
 
 The three million illegal immigrants and their 1.1 million U.S. born children cost the average California household $2,370 annually.  And these amounts go back to 2014.
