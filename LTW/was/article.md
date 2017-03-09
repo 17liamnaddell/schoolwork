@@ -2,7 +2,7 @@
 Illegal Immigrants
 
 #Article
-##REPORT:100 MILLION ILLEGAL IMMIGRANTS USING AMERICAN HEALTHCARE
+##REPORT:10 MILLION ILLEGAL IMMIGRANTS USING AMERICAN HEALTHCARE
 I keep hearing about how our state is deteriorating – streets falling apart, air quality poor, and so on.
 
 Recently I heard a report about the sad state of the streets in our state. they are in horrible condition due to potholes that will take hundreds of millions of dollars to repair..
@@ -13,7 +13,7 @@ Now pay attention to the following.
 
 All those billions of our tax money in the form of education (free!), health care (free!), law enforcement and social services (free!) went to the illegal aliens and their dependants.
 
-The three million illegal immigrants and their 1.1 million U.S. born children cost the average California household $2,370 annually.  And these amounts go back to 2014.
+The three million illegal immigrants and their 1.1 million U.S. born children cost the average American household $2,370 annually.  And these amounts go back to 2010. Just think about it now!
 
 While our state is falling apart and the state sinks billions of dollars into a worthless bullet train – which by the way is currently millions of dollars over budget – those mindless politicians and our ignorant governor are wasting billions upon billions of dollars on illegal immigrants instead of taking care of and fixing our state. Our money has been wasted by the politicians voted in by the Democrats. 
 
