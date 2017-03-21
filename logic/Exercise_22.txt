@@ -1,0 +1,26 @@
+1. P        SM
+  2. ~Q·R     SM
+  3. ~Q       2·D
+  4. R        2·D
+  5. ⊕        Consistant
+  6. P  |  Q  |  R  |
+  7. T     F     T
+2. ~~P
+  2. ~P·Q
+  3. ~~P        SM
+  4. ~P         2·D
+  5. Q          2·D
+  6. 3x4
+3. P            SM
+  2. ~Q         SM
+  3. ~Pv~~Q     SM
+  4. ~Pv~~Q
+      /    \
+     1x4   2x4
+4. ~P·Q         SM
+  2. QvR        SM
+  3. ~P         1·D
+  4. Q          1·D
+  5. QvR
+    /   \
+   ⊕     ⊕
