@@ -4,16 +4,16 @@ This is Liam's Minecraft Curriculum that is going to be used at Amplified Learni
 
 ## Overview
 
-+The curriculum is going to get gradually harder day by day.
-+The subject matters will be of the following:
-+vim editing(Arrow keys)
-+Minecraft Building
-+Minecraft Redstone
-+Minecraft Command Blocks
-+McCreator Modding
-+Code Combat
-+*very* basic Python Programming(hello world and hi)
-+*very* basic Golang Programming(hello world and hi)
++ The curriculum is going to get gradually harder day by day.
++ The subject matters will be of the following:
++ vim editing(Arrow keys)
++ Minecraft Building
++ Minecraft Redstone
++ Minecraft Command Blocks
++ McCreator Modding
++ Code Combat
++ *very* basic Python Programming(hello world and hi)
++ *very* basic Golang Programming(hello world and hi)
 
 ## Day By Day
 The next section will cover how the curriculum works day-by-day
