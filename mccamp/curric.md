@@ -1,8 +1,8 @@
-#Liam Naddell's Minecraft Camp Curriculum
-##About
+# Liam Naddell's Minecraft Camp Curriculum
+## About
 This is Liam's Minecraft Curriculum that is going to be used at Amplified Learning Center (Charlotte NC)
 
-##Overview
+## Overview
 
 +The curriculum is going to get gradually harder day by day.
 +The subject matters will be of the following:
@@ -15,10 +15,10 @@ This is Liam's Minecraft Curriculum that is going to be used at Amplified Learni
 +*very* basic Python Programming(hello world and hi)
 +*very* basic Golang Programming(hello world and hi)
 
-##Day By Day
+## Day By Day
 The next section will cover how the curriculum works day-by-day
 
-###Day one
+### Day one
 
 1. Kids will make traps on a private server, then have other students step into those traps, killing/messing with them.
 1. They will learn redstone circuitry, and in the process, will be doing something fun and enjoyable.
@@ -28,7 +28,7 @@ The next section will cover how the curriculum works day-by-day
 1. they will also use bash on windows to use the VIM editor
 1. They will close out the day with McCreator Modding
 
-###Day two
+### Day two
 
 1. Kids will make TNT cannons using the redstone circuitry they learned yesterday, as well as blowing up eachother
 1. They will do more code combat
@@ -37,7 +37,7 @@ The next section will cover how the curriculum works day-by-day
 1. They will be introduced to `hjkl and esc` in vim
 1. Close out the day with McCreator Modding
 
-###Day three
+### Day three
 
 1. Kids will build traps with command blocks
 1. Code Combat
@@ -46,7 +46,7 @@ The next section will cover how the curriculum works day-by-day
 1. McCreator Modding
 
 
-###Day four 
+### Day four 
 
 1. Kids will build a fully fledged Minecraft map with command blocks
 1. Code Combat
