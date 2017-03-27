@@ -1,0 +1,49 @@
+1. A⊃B            SM
+  2. (A·B)⊃C      SM
+  3. ~(A·C)       SM
+  4.      A            SM
+        /   \
+  5.  ~A    ~C       3~·D
+      4x5  /  \
+  6.   ~(A·B)  C     2⊃D
+        /  \  5x6
+  7.  ~A   ~B        6~·D
+      4x7 /  \
+  8.    ~A    B      1⊃D
+       4x8   7x8
+
+2. D≡(E⊃F)             SM
+  2. ~D·E              SM
+  3. D≡F               SM
+  4. ~D
+  5.                E                 2·D
+                  /  \  
+  6.             D    ~D              3≡D
+  7.             F    ~F              3≡D
+                4x6 /    \
+  8.               D     ~D           4≡D
+  9.             (E⊃F) ~(E⊃F)         4≡D
+  10.             4x8     E          9~⊃D
+  11.                    ~F          9~⊃D
+3. G⊃H                 SM
+  2. GvI               SM
+  3. ~H                SM
+  4. ~(I·~G)           SM
+  5.                                /  \ 
+  6                               ~G    H           1⊃D
+  7.                             /  \  3x6
+  8.                            G    I              2vD
+                               6x8 /   \
+  9.                             ~I    ~~G         4~·D
+  10.                            7x9    G          9~~D
+4. ~(J≡K)                    SM
+  2. K⊃(~LvM)                SM
+  3.                                         L·~(K·M)                SM
+  4.                                          L                      3·D
+  5.                                        ~(K·M)                   3·D
+                                             /  \
+  6.                                        J    ~J                  1~≡D
+  7.                                       ~K     K                  1~≡D
+                                          /  \   / \
+  8.                                       
+
