@@ -1,6 +1,6 @@
 Hello, my name is REPORT:10 MILLION ILLEGAL IMMIGRANTS ABUSING AMERICAN HEALTHCARE, and I am competition with JUST IN:OBAMA ILLEGALLY TRANSFERRED DOJ MONEY TO CLINTON CAMPAIGN!!! Last week JUST IN: OBAMA ILLEGALLY TRANSFERRED DOJ MONEY TO CLINTON CAMPAIGN!!! I got 1,000,000 views. This means that the article won 10,000 dollars. I need MORE money than that article, that is my business. I sell the commodity of manufactured outrage in return for ad revenue. 
 
-Basically, I bully Illegal Immigrants because they deserve it, and steal our healthcare, tax dollars, and commit mass murder. 
+Basically, I write about how horrible a believable target is because I want money. For example, Illegal Immegrants associated with stealing our healthcare, tax dollars, and commit mass murder. 
 It really does not matter how I read, the only thing that matters is my title. Nobody reads past the first few words these days. If that is what entertains you, then you are perfect for this. Assuming you truly want to know, just read a few passages:
 _
 I keep hearing about how our state is deteriorating – streets falling apart, air quality poor, and so on.
