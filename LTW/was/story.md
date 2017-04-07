@@ -2,7 +2,7 @@ Hello, my name is REPORT:10 MILLION ILLEGAL IMMIGRANTS ABUSING AMERICAN HEALTHCA
 
 Basically, I bully Illegal Immigrants because they deserve it, and steal our healthcare, tax dollars, and commit mass murder. 
 It really does not matter how I read, the only thing that matters is my title. Nobody reads past the first few words these days. If that is what entertains you, then you are perfect for this. Assuming you truly want to know, just read a few passages:
-
+_
 I keep hearing about how our state is deteriorating – streets falling apart, air quality poor, and so on.
 Recently I heard a report about the sad state of the streets in our state. They are in horrible condition due to potholes that will take hundreds of millions of dollars to repair.
 This would be no problem in a working democracy, many pay taxes, etc. But our money is being drained away by the growing immigrant population coming from Mexico.
@@ -12,6 +12,7 @@ The three million illegal immigrants and their 1.1 million U.S. born children co
 While our state is falling apart and the state sinks billions of dollars into a worthless bullet train – which by the way is currently millions of dollars over budget – those mindless politicians and our ignorant Governor are wasting billions upon billions of dollars on illegal immigrants instead of
 taking care of and fixing our state. Our money has been wasted by the politicians voted in by the Democrats.
 You might think that the costs are bad for you, but think about people in sanctuary states like California. The costs come out to around $5,000 per person. That's why the cost for ANYTHING there is so high!
+_
 
 Why people enjoy me, I do not understand, but I am not in the business of understanding, I am in the business of telling people what they want to believe... For advertising dollars.
 

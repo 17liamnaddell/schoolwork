@@ -1,0 +1,64 @@
+2.
+
+                          1.                    D⊃E                   SM
+                          2.                    F⊃E                   SM
+                          3.                    DvF                   NC
+                                               /   \
+                          4.                  D     F                 3vD
+                                            /   \ /   \ 
+                          5.               ~D   E ~D   E              1⊃D
+                                                |  \
+                                                |   \ 
+                                                |    \
+                                                |   /  \
+                                                |  ~F   E             2⊃D
+                                                        o
+this problem I did was wrong...
+
+3. 
+                          1.                      (G·H)⊃I             SM
+                          2.                         H                SM
+                          3.                       ~(G⊃I)             NC
+                          4.                         G                3~⊃D
+                          5.                        ~I                3~⊃D
+                                                /        \
+                          6.                  ~(G·H)      I           1⊃D
+                          7.                  /   \      5x6
+                          8.                 ~G    ~H                 6~·D
+                                             4x8   2x8
+
+4.
+                          1.                        A⊃B✅                        SM                                      
+                          2.                        B⊃C✅                        SM
+                          3.                        C⊃D✅                        SM
+                          4.                        ~D                          SM
+                          5.                        AvE✅                        SM 
+                          6.                         ~E                         NC
+                                            /                  \                        
+                          7.               A                    E               5vD
+                                        /     \                6x7
+                          8.           ~A      B                                1⊃D
+                                      7x8    /   \
+                          9.                ~B    C                             2⊃D
+                                            8x9  / \
+                          10.                  ~C   D                           3⊃D
+                                              9x10 4x10
+
+5.
+
+                          1.                         S⊃(~L⊃K)✅                       SM 
+                          2.                         (~L·B)⊃K✅                        SM
+                          3.                         K                               SM
+                          4.                       ~(SvB)✅                           NC
+                          5.                         ~S                              4~vD
+                          6.                         ~B                              4~vD
+                                              /               \
+                          7.                 ~S               (~L⊃K)                 1⊃D
+                                          /      \           /    \
+                          8.           ~(~L·B)    K         ~~L    K                 7⊃D
+                          9.                      o         L       \                8~~D
+                          10.                            /      \      \  
+                          11.                         ~(~L·B)    K  /      \         2⊃D     
+                                                                 ~(~L·B)    K        2⊃D
+
+Invalido
