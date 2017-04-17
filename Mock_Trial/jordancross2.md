@@ -1,17 +1,5 @@
 Please answer in only the affirmative or negative
 
-# Accident questions
-
-22. Did you see a black Cadallac in hot pursuit of CJ?
-23. Did Madison Smith's truck parked in the middle of the road?
-24. Was Madison Smith's truck obstructing the road?
-25. What condition was Sam Parker's bike in?
-26. Was Sam Parker hurt?
-27. Was Sam Parker a mess after the accident?
-28. How long did it take the sheriff to arrive?
-29. Did the sheriff recognise CJ calhoun?
-30. Was there a incessant camera flash at the scene of the accident?
-31. Did you try to assist the victims at the accident scene?
 
 # Other questions
 
@@ -42,3 +30,15 @@ Please answer in only the affirmative or negative
 
 
 
+# Accident questions
+
+22. Did you see a black Cadallac in hot pursuit of CJ?
+23. Did Madison Smith's truck parked in the middle of the road?
+24. Was Madison Smith's truck obstructing the road?
+25. What condition was Sam Parker's bike in?
+26. Was Sam Parker hurt?
+27. Was Sam Parker a mess after the accident?
+28. How long did it take the sheriff to arrive?
+29. Did the sheriff recognise CJ calhoun?
+30. Was there a incessant camera flash at the scene of the accident?
+31. Did you try to assist the victims at the accident scene?

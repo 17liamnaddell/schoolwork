@@ -33,9 +33,9 @@ PREFIX WITH `ur honor`
 >  Yes, he was wearing a helmet
 18. Did sheriff Newton say anything to Madison Smith that you heard of?
 >  I heard the sheriff tell Madison Smith to sleep off his liqur
+20. What did the sherrif do on the scene?
 19. Was there any interaction between the sheriff and CJ
 >  Yes, it looked like the sheriff asked CJ for an autograph.
-20. Wait, you are telling me that the sheriff sees this accident, and the sheriff asks CJ for an autograph first thing?
 21. What did you observe about the bike?
 >  It was completely mangled
 
