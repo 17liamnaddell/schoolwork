@@ -10,14 +10,14 @@
 | A real man does not conform to society   | "If I am the devil's child, then I will live then, from the devil" |                              |
 | The great man can keep to himself in a crowd | "be your own lord"                         |                                                  |
 | Conforming to the rest of society does not make you happy | Winning is the only satisfying way to live     |                                 |
-|                                          |                                                | We like honor because it is self-earned          |
-|                                          | Custom is bad                                  |                                                  |
+| "Do not imitate"                         |                                                | We like honor because it is self-earned          |
+| You cannot suceed just by reading        | Custom is bad                                  | "what is imitation if not the traveling of the mind" |
 |                                          |  History does not matter that much             | "the rose under my window makes no referance to any former rose, it is what it is"       |
 |                                          |                                                | Live in the present!                             |
 |                                          |                                                | Society tells you what religion to belive        |
 | Stay confident, just because you lost in one industry, does not give you the right to live the rest of your live complaining |                                                |                                                  |
 |                                          |                                                | your life is unfufilling because you are not self reliant |
-|                                          |                                                |                                                  |
+|                                          |                                                | There are no more "Greats" of today, because they just read books and are not self-reliant |
 |                                          |                                                |                                                  |
 |                                          |                                                |                                                  |
 |                                          |                                                |                                                  |
