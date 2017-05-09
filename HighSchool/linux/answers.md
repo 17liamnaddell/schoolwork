@@ -2,12 +2,12 @@
 1. Which of the following is not a function of the linux kernel?
   1. Allocation memory for use by programs
   2. Allocation CPU time for use by programs
-  3. creating menus in GUI programs
+  3. creating menus in GUI programs    <--- Correct
   4. Controlling access to the hard disk
   5. enabling programs to use a network
 
 2. Which of the following is an example of an embedded Linux OS?
-  1. Android
+  1. Android    <--- Correct
   2. SUSE
   3. CentOS
   4. Debian
@@ -17,221 +17,193 @@
 
 3. Which of the following is a notable difference between Linux and Mac OSX?
   1. Linux can run common GNU programs, whereas OSX cannot.
-  2. Linux's GUI is based on the X Window System, whereas OSX's is not
+  2. Linux's GUI is based on the X Window System, whereas OSX's is not    <--- Correct
   3. Linux cannot run on Apple Macintosh hardware, whereas OSX can run only on Apple hardware
   4. Linux relies heavily on BSD software, whereas OSX uses no BSD software
   5. Linux supports text-mode commands, but OSX is a GUI-only os
 
-4. True or false: The linux kernel is derived from the BSD kernel
+4. True or false: The linux kernel is derived from the BSD kernel       F
 
-5. True or false: If you log into a Linux system in graphical mode, you cannot use text-mode commands in that session
+5. True or false: If you log into a Linux system in graphical mode, you cannot use text-mode commands in that session     F
 
-6. True or false: CentOS is a Linux distro with a long release cycle.
+6. True or false: CentOS is a Linux distro with a long release cycle.             T
 
-7. A linux text-mode login prompt reads         (one word)
+7. A linux text-mode login prompt reads         (one word)      login:
 
-8. A common security problem with Windows that's essentially nonexistent on a Linux is            .
+8. A common security problem with Windows that's essentially nonexistent on a Linux is Virus      .
 
-9. Pre-release software that's likely to contain bugs is known as             and                 .
+9. Pre-release software that's likely to contain bugs is known as alpha       and  Beta           .
 
 ##SCORE: 100%
 
 #Test 2
 
 1. What type of multitasking does linux use?
-  1. Preemptive
+
+  1. Preemptive     <--- Correct
+
   1. Multi-user
+
   1. Co-operative
+
   1. Single-tasking
   1. Single-user
 2. Which of the following is a characteristic of all open source software?
   1. The software cannot be sold for a profit; it must be distributed free of charge
   1. It must be distributed with both source code and binaries
-  1. Users are permitted to redistribute altered versions of the original software
+  1. Users are permitted to redistribute altered versions of the original software      <--- Correct
   1. The software was originally written at a college or university
   1. The software must be written in an interpreted language that requires no compilation
 3. Which of the following programs is most likely to be installed and regularly used on a desktop computer that runs linux
   1. Apache
   1. Postfix
   1. Android
-  1. Evolution
+  1. Evolution    <--- Correct
   1. BIND
-4. T/F: VMS was a common OS on x86 PCs at the time Linux was created
-5. T/F: Some DVRs run Linux
-6. T/F: A linux computer being used as a server generally does not require X
-7. a Linux uses a          kernel design, as contrasted with a microkernel design
-8. A type of software that's destributed for free but that requres payment on the "honor system" if a person uses it is called          
-9. A           computer is likely to run a word processor and a Web browser
+4. T/F: VMS was a common OS on x86 PCs at the time Linux was created    F
+5. T/F: Some DVRs run Linux       T
+6. T/F: A linux computer being used as a server generally does not require X    T
+7. a Linux uses a Monolithic kernel design, as contrasted with a microkernel design   
+8. A type of software that's destributed for free but that requres payment on the "honor system" if a person uses it is called shareware
+9. A desktop   computer is likely to run a word processor and a Web browser
 
-
-##SCORE:100%
+##SCORE: 100%
 
 #Chapter 3
 
 1. Which of the following is not required in order for software to be certified as open source?
-
   1. The license must not discriminate against people or groups of people
   1. The license must not require that the software be distributed as part of a specific product
-  1. The license must require that changes be distributed under the same license                            <--correct
+  1. The license must require that changes be distributed under the same license              <--correct
   1. The program must come with source code, or the author must make it readily available on the internet
   1. The license must automatically apply to anybody who acquires the software
-
 1. Which is true of Linux distributions as a whole?
-
   1. They're covered by the GPL or BSD license, depending on the distribution
-  1. Sometimes, they may not be copied because of non-open source software                            <--correct
+  1. Sometimes, they may not be copied because of non-open source software              <--correct
   1. They may be copied only after software using the MIT license is removed
   1. They all completely conform to the principals of the open source movement.
   1. They all qualify as free software, as the FSF uses the term
-
 1. Which of the following is a key part of the FSF's philosophy?
-
   1. Developers should use the latest version of the FSF's GPL
   1. Users should have the right to modify free software and distribute it under a commercial license
   1. Developers should write software only for free operating systems such as GNU/linux
   1. Users should engage in civil disobedience by copying proprietary software
-  1. Users must have the right to use software as they see fit                            <--correct
-1. T/F: Copyright law governs the distribution of software in most countries        T
-
-1. T/F: The FSF's free software definition and the OSI's ten principals of open source software both require that users have the ability to examine a program's workings--that is, its source code                        T
-
-1. T/F: Because their hardware designs are proprietary, hardware vendors cannot release open source drivers for their products      F
-
-1. A license created by the FSF and often used for libraries is the LGPL    .
-1. An organization devoted to promoting open source-like principles in fields such as video and audio recordings is the creative commons.
-1. The FSF's general principles are summarized by the term copyleft , which refers to using copyright laws for purposes that are in some
+  1. Users must have the right to use software as they see fit
+1. T/F: Copyright law governs the distribution of software in most countries
+1. T/F: The FSF's free software definition and the OSI's ten principals of open source software both require that users have the ability to
+   examine a program's workings--that is, its source code
+1. T/F: Because their hardware designs are proprietary, hardware vendors cannot release open source drivers for their products
+1. A license created by the FSF and often used for libraries is the         .
+1. An organization devoted to promoting open source-like principles in fields such as video and audio recordings is the      .
+1. The FSF's general principles are summarized by the term          , which refers to using copyright laws for purposes that are in some
    ways contrary to the copyright's original intent. 
-
-##SCORE: 100%
 
 #Chapter 4 
 
 1. Which of the following are Linux desktop environments?
-
   1. GTX+
-  2. GNOME      <--correct
+  2. GNOME
   3. KDE
   4. Evolution
   5. Xfce
 2. If you want to enable one Linux computer to access files stored on another Linux computer's hard disk, which of the following network protocols is the best choice?
-
   1. SMTP
-  2. NFS      <--correct 
+  2. NFS
   3. PHP
   4. DNS
   5. DHCP
 3. Which of the following languages was most of the linux kernel written?
   1. Bash shell script
   2. Java
-  3. C      <--correct
+  3. C
   4. C++
   5. Perl
-4. T/F OpenOffice.org and LibreOffice are very similar office suites      T
-5. T/F Servers can be disrupted by malicious outsiders even if the computer that runs them is never broken into   T
-6. T/F Python is generally implemented as an interpreted language                 T
-7. Thunderbird is a Mail    program. (Specify the general category of the software)
-8. A Linux server that handles the SMB/CIFS protocol normally runs the SOMBRA/samba software
-9. A program written in a compiled programming language is completely converted to binary form before being run
-
-##SCORE:100%
+4. T/F OpenOffice.org and LibreOffice are very similar office suites
+5. T/F Servers can be disrupted by malicious outsiders even if the computer that runs them is never broken into
+6. T/F Python is generally implemented as an interpreted language
+7. Thunderbird is a         program. (Specify the general category of the software)
+8. A Linux server that handles the SMB/CIFS protocol normally runs the           software
+9. A program written in a          programming language is completely converted to binary form before being run
 
 #Chapter 5
 
 1. Which of the following commands provides the most information about your motherboard's features
-
   1. lscpu
   2. Xorg -configure
   3. fdisk -l /dev/sda
-  4. lspci              <--correct
+  4. lspci
   5. http://localhost:631
 2. Why might you want to partition a hard disk(select all that apply)
-
-  1. To install more than one OS on the disk      <--correct
+  1. To install more than one OS on the disk
   2. To use the ext4fs rather than ReiserFS
   3. To turn a PATA disk into an SATA disk
-  4. To seperate filesystem data from swap space  <--correct
+  4. To seperate filesystem data from swap space
   5. To seperate the disk's cache from it's main data
-  
 3. Which of the following devices is not commonly attached via USB?
-  1. Video monitors      <--correct
+  1. Video monitors
   2. Keyboards
   3. External hard disks
   4. Printers
   5. Scanners
-4. T/F: An EM64T CPU is capable of running a Linux distribution identified as being AMD64 CPU     T
-5. T/F: UDF is a good filesystem to use for a Linux installation on a hard disk                   F
-6. T/F: The Linux kernel includes drivers for various disk controllers, network adapters, and USB interfaces, among other things T
-7. The x86 CPU uses a    64 -bit architecture
-8. A computer power supply converts electricity from alternating current to direct current  (two words)
-9. The HDMI/VGA standard is a modern video interface that's commonly used on computer monitors
-
-##SCORE:100%
+4. T/F: An EM64T CPU is capable of running a Linux distribution identified as being AMD64 CPU 
+5. T/F: UDF is a good filesystem to use for a Linux installation on a hard disk 
+6. T/F: The Linux kernel includes drivers for various disk controllers, network adapters, and USB interfaces, among other things
+7. The x86 CPU uses a     -bit architecture
+8. A computer power supply converts electricity from alternating current to         (two words)
+9. The         standard is a modern video interface that's commonly used on computer monitors
 
 #Chapter 6
 
 1. What keystroke moves the cursor to the start of the lime when typing a command in bash
-  1. Ctrl+A       <--correct
+  1. Ctrl+A
   1. Left Arrow
   1. Ctrl+T
   1. Up arrow
   1. Ctrl+E
 2. How can you run a program in the background when launching it from a shell? (Select all that apply)
-
   1. Launch a program by typing `start command`, where `command` is the command you want to run
   1. Launch the program by typing `bg command`, where command is the command you want to run
-  1. Append an ampersand (&) to the end of the command line                                   <--correct
-  1. Launch the program normally, type Ctrl+Z in the shell, and then type `bg` in the shell   <--correct
+  1. Append an ampersand (&) to the end of the command line
+  1. Launch the program normally, type Ctrl+Z in the shell, and then type `bg` in the shell
   1. Launch the program normally, type Ctrl+Z in the shell, and then type `fg` in the shell
 3. Which of the following commands, typed at a Bash prompt, returns you to your home directory?
   1. home
   1. cd /home
   1. cd homedir
   1. homedir
-  1. cd ~       <--correct
-4. T/F: The Alt+F2 keystroke, typed in X, brings up a text-mode display you can use to log into Linux         F
-5. T/F: The filename ..\upone.txt refers to the file upone.txt in the parent of the current directory         F
-6. T/F: The -r option to `ls1 creates a recursive directory listing                                           F
-7. T/F: The PWD     command displays the path to the current working directory
-8. To view all files, including hidden files and directories, in the current directory, you would type ls `-a`
-9. The cat      command displays text files or can concatenate multiple files together
-
-##SCORE: 100%
+  1. cd ~
+4. T/F: The Alt+F2 keystroke, typed in X, brings up a text-mode display you can use to log into Linux
+5. T/F: The filename ..\upone.txt refers to the file upone.txt in the parent of the current directory
+6. T/F: The -r option to `ls1 creates a recursive directory listing
+7. T/F: The         command displays the path to the current working directory
+8. To view all files, including hidden files and directories, in the current directory, you would type ls `options`
+9. The          command displays text files or can concatenate multiple files together
 
 #Chapter 7
 
 1. Which of the following commands would you type to rename newfile.txt to afile.txt
-  1. mv newfile.txt afile.txt       <--correct
+  1. mv newfile.txt afile.txt
   1. cp newfile.txt afile.txt
   1. ln newfile.txt afile.txt
   1. touch newfile.txt afile.txt
 2. You want to copy a directory, MyFiles, to a USB flashdrive that uses the FAT filesystem. The contents of MyFiles are as follows `contract.pdf` `outline.pdf`and `Outline.PDF` The USB flash drive is mounted at /media/usb, and so you type cp -a MyFiles/ /media/usb. What problem will occur when you attempt to copy these files?
-
   1. The command will fail because it tries to create links
   1. The MyFiles directory will be copied, but none of its files will be copied
-  1. One of the files will be missing on the USB flash drives      <--correct
+  1. One of the files will be missing on the USB flash drive
   1. One file's name will be changed during the copy
   1. Everything will be fine; the command will work properly
-3. You type mkdir one/two/three and receive an error message that reads in part: `No such file or directory` What can you do to overcome this problem? (select all that apply)    `1/2 misread` 
-  1. Add the --parents flag      <--correct
+3. You type mkdir one/two/three and receive an error message that reads in part: `No such file or directory` What can you do to overcome this problem? (select all that apply)
+  1. Add the --parents flag 
   1. Issue three seperate mkdir commands: mkdir one, then mkdir one/two, then mkdir one/two/three
   1. Type touch /bin/mkdir to be sure the mkdir program file exists
   1. Type rmdir one to clear away the interfering base of the desired new directory tree
   1. Type rm -r one to clear away the entire interfearing directory tree 
-
-4. T/F: You can create a symbolic link from one low-level FS to another T
-
-5. T/F: You can easily damage your Linux installation by mistyping an rm command as a regular account     F
-
-6. T/F: You can set a directory's time stamp with the touch command     T
-
-7. You want to copy a file (origfile.txt) to the backups directory, but if a file called origfile.txt exists in the backups directory, you want to go ahead with the copy only if the file in the source location is newer than the one in the backups folder. The command to do this is cp -u  origfile.txt backups/
-
-8. You have typed rmdir junk to delete the junk directory, but this command has failed because junk contains word proccessing files. What command might you type to do this job?    rm -rf junk
-
-9. Which wildcard character matches any one symbol in a filename?  ?
-
-##SCORE: 95%
-> I missed one by not reading the question properly, I gave myself 5% back for that
+4. T/F: You can create a symbolic link from one low-level FS to another
+5. T/F: You can easily damage your Linux installation by mistyping an rm command as a regular account
+6. T/F: You can set a directory's time stamp with the touch command
+7. You want to copy a file (origfile.txt) to the backups directory, but if a file called origfile.txt exists in the backups directory, you want to go ahead with the copy only if the file in the source location is newer than the one in the backups folder. The command to do this is cp     origfile.txt backups/
+8. You have typed rmdir junk to delete the junk directory, but this command has failed because junk contains word proccessing files. What command might you type to do this job?
+9. Which wildcard character matches any one symbol in a filename?
 
 #Chapter 8
 
