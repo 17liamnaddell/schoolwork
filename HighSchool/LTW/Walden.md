@@ -7,12 +7,10 @@
 |     *|*=Substantial                   |  `}{` Hypocracy                       |                                       |
 |                                       |  `(*)` Anti Christian                 |                                       |
 
-
-`X:` 			
- `X:`  
- `}{`                  
- `}{`              `(*)`     
- `(*)`            
+ 
+ 
+ 
+ 
 |                   A                      |                      N                         |                          I                       |
 |------------------------------------------|------------------------------------------------|--------------------------------------------------|
 | people are poor `/`                      | there is no way of living that is good other than mine.`\/` | lived in the woods when he wrote the book        |
