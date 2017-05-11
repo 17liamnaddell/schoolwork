@@ -72,29 +72,40 @@
 #Chapter 3
 
 1. Which of the following is not required in order for software to be certified as open source?
+
   1. The license must not discriminate against people or groups of people
   1. The license must not require that the software be distributed as part of a specific product
   1. The license must require that changes be distributed under the same license              <--correct
   1. The program must come with source code, or the author must make it readily available on the internet
   1. The license must automatically apply to anybody who acquires the software
+
 1. Which is true of Linux distributions as a whole?
+
   1. They're covered by the GPL or BSD license, depending on the distribution
   1. Sometimes, they may not be copied because of non-open source software              <--correct
   1. They may be copied only after software using the MIT license is removed
   1. They all completely conform to the principals of the open source movement.
   1. They all qualify as free software, as the FSF uses the term
+
 1. Which of the following is a key part of the FSF's philosophy?
+
   1. Developers should use the latest version of the FSF's GPL
   1. Users should have the right to modify free software and distribute it under a commercial license
   1. Developers should write software only for free operating systems such as GNU/linux
   1. Users should engage in civil disobedience by copying proprietary software
-  1. Users must have the right to use software as they see fit
-1. T/F: Copyright law governs the distribution of software in most countries
+  1. Users must have the right to use software as they see fit					<--correct
+
+1. T/F: Copyright law governs the distribution of software in most countries		
+
 1. T/F: The FSF's free software definition and the OSI's ten principals of open source software both require that users have the ability to
+
    examine a program's workings--that is, its source code
 1. T/F: Because their hardware designs are proprietary, hardware vendors cannot release open source drivers for their products
+
 1. A license created by the FSF and often used for libraries is the         .
+
 1. An organization devoted to promoting open source-like principles in fields such as video and audio recordings is the      .
+
 1. The FSF's general principles are summarized by the term          , which refers to using copyright laws for purposes that are in some
    ways contrary to the copyright's original intent. 
 
@@ -259,10 +270,14 @@
 8. You're using bash, then you type emacs to launch the emacs editor. In this case, emacs is bash's       .
 9. General system messages are likely to be found in /var/log/messages or /var/log/     , depending on your distro
 
+##SCore: Because of deletions, the score will be set to 100% on all, but one is 95%, and one is 90%
+
+Up to here:
+
 #Chapter 10
 
 1. Which of the following commands will print lines from the file world.txt that contain matches to changes and changed?
-  1. `grep change[ds] world.txt`
+  1. `grep change[ds] world.txt`					<--correct
   1. `tar change[d-s] world.txt`
   1. `find "change'd|s'" world.txt`
   1. `cat world.txt changes changed`
@@ -272,15 +287,15 @@
   2. 2>
   3. &>
   4. >
-  5. >>
+  5. >>					<--correct
 1. You've received a tarball called data79.tar from a colleague, but you want to check the names of the files it contains before extracting them. Which of the following commands would you use to do this?
-  1. tar uvf data79.tar
+  1. tar uvf data79.tar					<--correct
   1. tar cvf data79.tar
   1. tar xvf data79.tar
   1. tar tvf data79.tar
   1. tar Avf data79.tar
-1. T/F: The regular expression `Linu[^x].*lds` mathes the string "Linus Torvalds".
-1. T/F: the find command enables you to locate files based on their sizes
+1. T/F: The regular expression `Linu[^x].\*lds` mathes the string "Linus Torvalds".	T
+1. T/F: the find command enables you to locate files based on their sizes	
 1. T/F: To compress files archived with zip, you must use an external compression program such as gzip or bzip2 in a pipeline with zip
 1. The character that represents the start of a line in a regex is    .
 1. Complete the following command to redirect both stdout and stdin from the bigprog program to the file out.txt
