@@ -1,4 +1,8 @@
 # Introduction
+1. "I went to the woods because I wished to live deliberately" -Henry David Thorough. While you may think that this quote is about nature, it is really about you, and about how you should live a fufilling life; Filled with yourself, and nothing else.
+2. Narratio
+	1. These books happen in the backdrop of the industrial revolution. These people called "Trancendentalists" thought that we were becoming puppets of the system. They thought to live a satisfying life, you needed to live a "natural existance"
+	2. These people published books, met in groups and decided to share ideas and collaborate. Ralph Waldo Emerson trained Thorough on Trancendentalist thought, and eventually Thorough lived out in the wilderness for two years because of the thoughts Emerson shared with Thorough.
 3. Division
 	1. While some people think that works on trancendentalism are nature loving, intellegent books,
 	2. I claim that they are self-obsessed, sloppy and responsable for the ugly parts of american culture we ignore on a day to day basis
@@ -44,8 +48,23 @@
 # Refutation 
 
 
-1. While some believe that works on Trancendentalism are nature loving, harmless books
+1. While some believe that works on Trancendentalism are nature loving, self-help books, 
 2. I believe that Trancendentalism is made to fuel narcissism, and one way is through "appreciating" nature
-	1. They believe this because of countless nature quotes such as "We need the tonic of wildness" and, "We can never have enough of nature".
+	1. They believe that works on Trancendentalism are nature loving books because of countless nature quotes such as "We need the tonic of wildness" and, "We can never have enough of nature".
 	2. But this is just not what thorough and Trancendentalism is about. It is about feeding your narcissism, weather it be validating your self-righteousness through anti-educationalism, or just plain self-centeredness. 
+3. The other reason people believe that Trancendentalist material is helpful to american culture is because they appear to be self-help books.
+	1. Many people believe the above statement because they talk about our culture, and, if we take bits and peices of their advice to heart, then we feel better.
+	2. Although I would argue that by condemning the rest of society, we only elevate ourselfs, making ourselves the centre of our own worlds. 
+4. NEEDS THING HERE:
+
+# Conclusion
+	
+	1. I have proven to you that Trancendentalist material is not self-help or nature appretiation material, but is in fact self-centered material that is purposed to boost the ego of the reader. 
+	2. Because of these three reasons
+		1. Anti education
+		2. Narcissism
+		3. Neo Liberalism
+	3. Amplification
+		1. This book matters to Christians as well as anybody that does not want to live a self-centered life
+		2. Because the bible is strongly against narcissisim.
 	
