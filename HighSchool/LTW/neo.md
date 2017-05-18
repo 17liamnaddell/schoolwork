@@ -42,9 +42,12 @@ The other reason people believe that Trancendentalist material is helpful to ame
 
 I have proven to you that Trancendentalist material is not self-help or nature appretiation material, but is in fact self-centered material that is purposed to boost the ego of the reader. Because of the above reasons, One: Anti ecucationalism, Two: Narcissism, and Three: Neo Liberalism.
 
-Brothers in Christ, I warn you about this because of the virtues of humility the bible provides in <bible Quotes>.
+Brothers in Christ, I warn you about this because of the virtues of humility the bible provides in 
 
 
+1. Romans 16:17-19 I appeal to you, brothers, to watch out for those who cause divisions and create obstacles contrary to the doctrine that you have been taught; avoid them. For such persons do not serve our Lord Christ, but their own appetites, and by smooth talk and flattery they deceive the hearts of the naive. For your obedience is known to all, so that I rejoice over you, but I want you to be wise as to what is good and innocent as to what is evil.
+2. Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for God opposes the proud but gives grace to the humble. Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you,
+3. But understand this, that in the last days there will come times of difficulty. For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy, heartless, unappeasable, slanderous, without self-control, brutal, not loving good, treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God, having the appearance of godliness, but denying its power. Avoid such people.
 
 
 
