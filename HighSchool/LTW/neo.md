@@ -1,56 +1,20 @@
-# introduction 
-"I went to the woods because I wished to live deliberately" -Henry David Thorough. While you may think that this quote is about nature, it is really about you, and about how you should live a fufilling life; Filled with yourself, and nothing else.
+Introduction
+"I went to the woods because I wished to live deliberately" -Henry David Thoreau. While you may think that this quote is about nature, it is really about you, and about how you should live a fufilling life; filled with yourself, and nothing else.The books in question today are Ralph Waldo Emerson's "Self-Reliance" and Henry David Thoreau's "Walden", named after the pond where he spent two years of his life in solitude.These books happen in the backdrop of the industrial revolution. These people called "Trancendentalists" worried that we were becoming mechanized puppets of the new and burgeoning industrial system. They thought to live a satisfying life, you needed to live a "natural existance".These people published books, met in groups, and decided to share ideas and collaborate. Ralph Waldo Emerson trained Thoreau on Trancendentalist thought, and eventually Thoreau lived out in the wilderness for two years because of the thoughts Emerson shared with Thoreau.While many adore the quotes of Ralph Waldo Emerson and Henry David Thoreau and can be seen platered on coffee mugs and inspirational posters, others, such as myself think that they are self-obsessed, indulgant, sloppy, and perfectly describe the ugly parts of American culture we ignore on a day to day basis. Trancendentalism describes the consumerist market forces that drive the economy this day, and every day for these three reasons: First, the rampant anti-educationalism shown throughout the book, second, the narcissistic tendancies barely visable behind the nature-loving curtains of the book, and finally, Neolibralism; which neatly ties together all of the above elements of the book.
+Anti-Educationalism.
+These men treat education as a harm to society, as if wallowing in your own ignorance is a virtue. This can be clearly seen in the following quotes by Ralph Waldo Emerson: "Believe what is true in your heart is true for all men, now that, is genius", "Man is his own start, and the soul can render an honest and perfect man", and finally: "envy is ignorance, imitation is suicide". As well as one from Henry David Thoreau (who thought Europeans were "barbarous and unhealthy" in a time when Americans went to Europe to get cultured): "the old have no valuable experience to give to the young". These men wanted us to live in a more natural state, and in doing this, they created an anti-knowledge mentality right from the beginning of the book. This negatively impacts American culture because it makes us mentally undicaplined. Allowing us to “go with our gut” and fall for things like fake news which even though irrational, appeals to us viscerally.
 
-The books in question today are Ralph Waldo Emerson's "Self-Reliance" and Henry David Thorough's "Walden", named after the pond where he spent two years of his life in solitude.
-
-These books happen in the backdrop of the industrial revolution. These people called "Trancendentalists" thought that we were becoming puppets of the system. They thought to live a satisfying life, you needed to live a "natural existance"
-
-These people published books, met in groups and decided to share ideas and collaborate. Ralph Waldo Emerson trained Thorough on Trancendentalist thought, and eventually Thorough lived out in the wilderness for two years because of the thoughts Emerson shared with Thorough.
-
-While many adore the works of Ralph Waldo Emerson and Henry David Thorough, others, such as myself think that they are self-obsessed, sloppy, and perfectly describe the ugly parts of american culture we ignore on a day to day basis.
-
-Today, I will prove to you that Trancendentalism describes the consumerist market forces that drive the economy this day, and every day for these three reasons. First, the rampant anti-educationalism shown throughout the book, Second, the Narcissistic tendancies barely visable behind the nature-loving curtains of the book, and Finally, Neolibralism; Which neatly ties together all of the above elements of the book.
-
-
-Lets start out with
-# Anti-Educationalism.
-
- These men treat education as a harm to society, as if wallowing in your own ignorance is a virtue. This can be clearly seen in the following quotes by Ralph Waldo Emerson: "Believe what is true in your heart is true for all men, now that, is genius", "Man is his own start, and the soul can render an honest and perfect man", and finally: "envy is ignorance, imitation is suicide". As well as one from Henry David Thorough (Who thought europeans were "barbarous and unhealthy" in a time when Americans went to Europe to get cultured): "the old have no valuable experience to give to the young".
-
-Secondly
-
-# Narcisissm. 
-
-According to The New Yorker, On the night of October 6, 1849, immegrants fled to america from ireland to escape the famine. Their ship crashed into some rocks, and around 15 people were killed. Henery David Thorough had this to say about the scene of multiple bloated bodies that had drowned. "On the whole, It was not so impressive a scene as I might have expected. If I had found one body cast upon the beach in some lonely place, it would have affected me more". This is what you can expect from a man that is anti-family, anti-relationship, and was put in jail for tax evasion.
-
-But what about Ralph Waldo Emerson? Same deal; This can be seen in quotes such as "They are not my poor people", and a man that thinks that relief socieies and almost all charaties are bad.
-
-# Neo Liberalism.
-
-You might be wondering, "What is Neo Liberalism? No fear, I will tell you; Neo Liberalism is a economic philosophy that has the following tenants: Consumerism is the most important obligation as a citizen, personal freedoms\>public freedoms, and all social issues are addressed on a private level (source: Henry Giroux, youth in a suspect society)
-
-An example of this would be real standards of beauty Sponsored by Dove. This fits in perfectly with Ralph Waldo Emerson and Henry David Thorough. The proccess of taking something outside of the system, and making it fit the system's purposes is called cooptation. Trancendentalism has been coopted into Neo Liberalism to create posters, and allow us to pay our way into a lifestyle we do not live ourselves. All of this is fueled by narcissism.
-
-# Refutation
-
-While some believe that works on Trancendentalism are nature loving, self-help books, I believe that Trancendentalism is made to fuel narcissism, and one way is through "appreciating" nature. They believe that works on Trancendentalism are nature loving books because of countless nature quotes such as "We need the tonic of wildness" and, "We can never have enough of nature".
-But this is just not what Trancendentalism is about; This is evedent in the mass of the pages on each book being about self-improvement, and not about nature. It is about feeding your narcissism, weather it be validating your self-righteousness through anti-educationalism, or just plain self-centeredness.
-
+Narcisissm.
+According to The New Yorker, on the night of October 6, 1849, immegrants fled to America from Ireland to escape the famine. Their ship crashed into some rocks, and around 15 people were killed. Henry David Thoreau had this to say about the scene of multiple bloated bodies that had drowned. "On the whole, It was not so impressive a scene as I might have expected. If I had found one body cast upon the beach in some lonely place, it would have affected me more". This is what you can expect from a man that is anti-family, anti-relationship, and was put in jail for tax evasion; then had to be bailed out by his mother, ironically. But what about Ralph Waldo Emerson? Same deal. This can be seen in his response to giving  "They are not my poor people". And a man that thinks that relief socieies and almost all charaties are bad. So we have a man that will not feel sorry for the victims of a shipreck that had drowned to death because their death was not artistic enough for him; and we have a man that will not give to the poor because they are “Not his”.  These men imply that we were given a route of communication that instead of building relationships, we tell others to ‘go away’. We can see this is rediculous because even Henry David Thoreau could not sustain this lifestyle, only being in the woods for two years, never to return. We as Americans are hyper indiviualistic, putting our happiness well above the needs of others. 
+Neo Liberalism.
+You might be wondering, "What is Neo Liberalism? No fear, I will tell you; Neo Liberalism is a economic philosophy that has the following tenants: consumerism is the most important obligation of a citizen, personal freedoms more important than public freedoms, and all social issues are addressed on a private level (source: Henry Giroux, youth in a suspect society)
+An example of this would be “Real Standards of Beauty” sponsored by Dove. This ad combines a campaign for social change, i.e. addressing unrealistic standards of beauty, and an individual woman’s insecurity being solved by a single bar of soap. While Emerson and Thoreau seemingly eschewed materialism, they were extreme proponents of narcissism because their foundation of life was self, and by making the foundation of life self, they make themselfes the material, and succumb to materialism. Materialsim is easily coopted into neo-liberalism (much to their dismay). You can go online right now and spend your heart away on trancendentalist mugs, posters, and general apperal. As Americans we mislead ourselves into thinking we can buy a lifestyle we don’t live ourselves.  
+Refutation
+While some believe that works on Trancendentalism are nature loving, self-help books, I believe that Trancendentalism is made to fuel narcissism, and one way is through "appreciating" nature. They believe that works on Trancendentalism are nature loving books because of countless nature quotes such as "We need the tonic of wildness" and, "We can never have enough of nature". But this is just not what Trancendentalism is about; This is evedent in the mass of the pages on each book being about self-improvement, and not about nature. It is about feeding your narcissism, weather it be validating your self-righteousness through anti-educationalism, or just plain self-centeredness.
 The other reason people believe that Trancendentalist material is helpful to american culture is because they appear to be self-help books. Many people believe the above statement because they talk about our culture, and, if we take bits and peices of their advice to heart, then we feel better. Although I would argue that by condemning the rest of society, we only elevate ourselfs, making ourselves the centre of our own worlds.
-
-# Conclusion
-
+Conclusion
 I have proven to you that Trancendentalist material is not self-help or nature appretiation material, but is in fact self-centered material that is purposed to boost the ego of the reader. Because of the above reasons, One: Anti ecucationalism, Two: Narcissism, and Three: Neo Liberalism.
-
-Brothers in Christ, I warn you about this because of the virtues of humility the bible provides in 
-
-
+Brothers in Christ, I warn you about this because of the virtues of humility the bible provides in
 1. Romans 16:17-19 I appeal to you, brothers, to watch out for those who cause divisions and create obstacles contrary to the doctrine that you have been taught; avoid them. For such persons do not serve our Lord Christ, but their own appetites, and by smooth talk and flattery they deceive the hearts of the naive. For your obedience is known to all, so that I rejoice over you, but I want you to be wise as to what is good and innocent as to what is evil.
 2. Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for God opposes the proud but gives grace to the humble. Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you,
 3. But understand this, that in the last days there will come times of difficulty. For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy, heartless, unappeasable, slanderous, without self-control, brutal, not loving good, treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God, having the appearance of godliness, but denying its power. Avoid such people.
-
-
-
-
-
 
