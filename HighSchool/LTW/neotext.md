@@ -16,6 +16,8 @@ Romans 16:17-19 “I appeal to you, brothers, to watch out for those who cause d
 
 # Works Cited
 
+```
 Works Cited
 Rosenwald, Lawrence. “The Theory, Practice & Influence of Thoreau's Civil Disobedience.” The Theory, Practice, and Influence, William Cain Ed, thoreau.eserver.org/theory.html. Accessed 22 May 2017.
 Schulz, Kathryn. “Pond Scum.” The New Yorker, The New Yorker, 12 Mar. 2017, www.newyorker.com/magazine/2015/10/19/pond-scum. Accessed 22 May 2017.
+```
