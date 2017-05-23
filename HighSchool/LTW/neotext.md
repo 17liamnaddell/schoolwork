@@ -13,3 +13,9 @@ It has been shown that trancendentalist material is not self-help or nature appr
 Romans 16:17-19 “I appeal to you, brothers, to watch out for those who cause divisions and create obstacles contrary to the doctrine that you have been taught; avoid them. For such persons do not serve our Lord Christ, but their own appetites, and by smooth talk and flattery they deceive the hearts of the naive. For your obedience is known to all, so that I rejoice over you, but I want you to be wise as to what is good and innocent as to what is evil. Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for God opposes the proud but gives grace to the humble. Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you, But understand this, that in the last days there will come times of difficulty. For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy, heartless, unappeasable, slanderous, without self-control, brutal, not loving good, treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God, having the appearance of godliness, but denying its power. Avoid such people”.
 
 *Emerson and Thoreau deceive us into wrongly perceiving the abundance of materialism received by the 21st century*
+
+# Works Cited
+
+Works Cited
+Rosenwald, Lawrence. “The Theory, Practice & Influence of Thoreau's Civil Disobedience.” The Theory, Practice, and Influence, William Cain Ed, thoreau.eserver.org/theory.html. Accessed 22 May 2017.
+Schulz, Kathryn. “Pond Scum.” The New Yorker, The New Yorker, 12 Mar. 2017, www.newyorker.com/magazine/2015/10/19/pond-scum. Accessed 22 May 2017.
