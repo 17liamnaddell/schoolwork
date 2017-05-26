@@ -5,6 +5,6 @@ A few weeks ago, I made a blinking led flashlight with resin.ioOS on a raspberry
 
 Today, I got the same thing to work with a NodeMCU esp8266 mounted directly on a breadboard. The circuit diagram is at 
 
-* ![First image, led in off state](https://github.com/liamnaddell/schoolwork/images/blob/master/HighSchool/DSCF0633.JPG)
-* ![2nd Image, led in on state](https://github.com/liamnaddell/schoolwork/images/blob/master/HighSchool/DSCF0634.JPG)
-* ![Diagram](https://github.com/liamnaddell/schoolwork/images/blob/master/HighSchool/LEDLAMP.jpg)
+* ![First image, led in off state](../images/DSCF0633.JPG)
+* ![2nd Image, led in on state](../images/DSCF0634.JPG)
+* ![Diagram](../images/LEDLAMP.jpg)
