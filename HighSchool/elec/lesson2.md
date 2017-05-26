@@ -1,3 +1,5 @@
+# Lesson 2
+May 9 19:47:49 2017
 Electronic Circuit: An assemblage of interconnected electronic components 
 ELECTRONIC DIAGRAMS:
 a series of big and short lines that are parallel=battery +=up -=down

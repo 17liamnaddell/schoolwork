@@ -1,3 +1,5 @@
+# lesson 1
+May  1 11:23:12 2017
 Ohm's Law
 
 I=V/R; V=IR; R=V/I
