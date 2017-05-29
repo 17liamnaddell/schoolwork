@@ -1,78 +1,25 @@
 # book
 
 ```
-poor family
-tragedy
-religious mother that is not his biological mother
-fights with rich kid
 Thesis=are precocious kids bad
-my idea no.
-Mother wants him to be pristine and HUH wear shoes.
-kid hates church but loves god.
-he hates the advironment. 
-he cannot express himself.
-but outside he has no supervision.
-He wants to go to chuch a mess
-he also wants to be a pirate
-one of his incantations failed, it was about finding buried marbles.
-finds some goods in the woods
-like a sword
-They would rather be outlaws a year, than presadent of the US forever.
-they try to remove a wart with a dead cat at midnight in a graveyard with huklburry fyin
-some drunk people in the graveyard, a indian and a drunk are digging up a grave
-the indian wants to hurt the doctor because of a incadent with the doctor's father
-the drunk killed somebody else, not the indian. The drunk killed somebody else with them
-because of this, huklburry wants to go to churh. 
-muff potters is the accused victim
-enjine joe gets away
-tom hates life
-tom is given painkillers
-tom throws them away
-he feels like nobody loves him
-they start stealing
-they love their life now
-they feel free
-they think pirates are noble, rich and live like kings
-they feel horrible for stealing
-they lost the boat, but are not sad
-they feel alone
-somebody drowned
-people think they drowned
-they feel important now
-he comes back to his aunt 
-she thinks tom is a great kid
-but tom does not see her
-they smoke now
-there are explosions on the island, thunder
-ther is a hurricane
-they barely escape death
-now they have no shelter
-they were mourning when the boys came back
-he tried to hurt becky but becky hurt him
-the aunt figured out that tom was right there when he retold the dream
-he apologized to beky
-she refuzed
-becky got in trouble, but tom can save her
-becky could also save tom, but didn't
-tom tries to save her
-becky tells tom about the ink in book 
 ```
-
+Pro thesis                                            Anti thesis
 |                      A                           |                       N                          |                            I                     |
 |--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-|                                                  |                                                  | Hucklberry fin is the son of the town drunk and completely lawless. |
-|                                                  |                                                  | He is demonized by the parents and teachers, but is actually pretty nice, and even traded a tick for a tooth with tom sawyer. |
-|                                                  |                                                  | Huckleberry fin does not actually swear that much, and is not horrible. 
-|                                                  |                                                  | The boys believe in magic wart removers like tree spunk | 
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
-|                                                  |                                                  |                                                  |
+| Chases after becky, then tries to hate and love her over and over. | |                                | Hucklberry fin is the son of the town drunk and completely lawless. |
+| He is demonized by the parents and teachers, but is actually pretty nice, and even traded a tick for a tooth with tom sawyer. | Tom does not take the painkillers |
+|                                                  | Tom runs away because he feels unloved, but comes back under cover to spy on his aunt. When he actually comes back, he says he had a "dream" where he told his aunt all of the things that he saw when spying on her. She went out and told the
+town, but they know that tom was just under the deck, and his grandmother is made a fool of. | Huckleberry fin does not actually swear that much, and is not horrible. 
+|                                                  | Tom comes back to town while his own funeral was going on | The boys believe in magic wart removers like tree spunk | 
+| |                     |                                                  |
+|                                                  | They start smoking                               | While they were on the island, they hit a hurricane, and it ruins their tent. |
+| They feel bad for stealing, so they stop pretending to be pirates, and instead be indians | Tom is vain, and seeks glory above all else      | People think they drowned                        |
+| They seek to be noble like pirates               | They did this to feel important                  |                                                  |
+| By being pirates, they feel free there is nobody to boss them around. They speek about how they hate their old lives. | |                              |
+| Tom feels alone, like nobody loves him.          |                                                  | Enjine joe gets away, while not the murderer, he helps cover it up |
+| After seeing a murder in a graveyard by some drunk, they are mortafied. |                           | Muff potters is accused                          |
+| Tom is given painkillers to stop him from feeling bad. |                                                  |                                                  |
+| "I would rather be outlaws a year, than presadent of the US forever. |                              | He fights with a stuck up kid from new hampshire |
+| Tom hates church, but loves god.                 |                                                  |                                                  |
+| He dreams of going to church a mess.             |                                                  |                                                  |
 |                                                  |                                                  |                                                  |
