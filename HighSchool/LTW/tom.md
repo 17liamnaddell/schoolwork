@@ -4,6 +4,7 @@
 Thesis=are precocious kids bad
 ```
 Pro thesis                                            Anti thesis
+
 |                      A                           |                       N                          |                            I                     |
 |--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | Chases after becky, then tries to hate and love her over and over. | |                                | Hucklberry fin is the son of the town drunk and completely lawless. |
