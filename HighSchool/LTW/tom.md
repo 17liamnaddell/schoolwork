@@ -1,4 +1,6 @@
-<p>
+# book
+
+```
 poor family
 tragedy
 religious mother that is not his biological mother
@@ -54,7 +56,7 @@ becky got in trouble, but tom can save her
 becky could also save tom, but didn't
 tom tries to save her
 becky tells tom about the ink in book 
-</p>
+```
 
 |                      A                           |                       N                          |                            I                     |
 |--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
