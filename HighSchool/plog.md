@@ -8,3 +8,7 @@ Today (and yesterday from 7pm-2am, and to day from 6-4:36(minus 3 hours) I have 
 
 ## Wedensday, May 31:
 Today, I built more of the LFS system, and got a blinking led to work with a transistor this time. yay
+
+## Friday, Jun 9
+
+I made a certified installer program using automake, autoconf, and other autotools. It is not finished yet, but the installer is. I just need to write the script

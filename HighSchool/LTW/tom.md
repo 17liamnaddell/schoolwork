@@ -1,7 +1,7 @@
 # book
 
 ```
-Thesis=are precocious kids bad
+Thesis=How did the institutions of the time(family, church, school) fail the bois
 The schoolmaster beats the children for braking his buk, they plan revenge
 The vain girls in the talent/poetry show will end it with a long and boring sermon, that is the most piass u have evr seen
 the winner was anti-everbody-but-presbeterian propaganda
