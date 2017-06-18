@@ -12,3 +12,19 @@ Today, I built more of the LFS system, and got a blinking led to work with a tra
 ## Friday, Jun 9
 
 I made a certified installer program using automake, autoconf, and other autotools. It is not finished yet, but the installer is. I just need to write the script
+
+## Wedensday, Jun 14
+
+Today is more of a dump log.
+
+I got gentoo linux to install after multiple hours and 10 failed attempts.
+I got minecraft working on 10 year old ebay computers for ALC. This is miraculous. 
+The minecraft camp I am putting (with Angela Peterson) on can run now. yay
+
+## Thursday, Jun 15
+
+I spent 3 hours last night (staying up until two) installing gentoo linux in case arch linux does not pan out
+I also came to the building at 10:00 to work on the computers. 
+I worked for an hour.
+
+
