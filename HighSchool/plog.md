@@ -27,4 +27,7 @@ I spent 3 hours last night (staying up until two) installing gentoo linux in cas
 I also came to the building at 10:00 to work on the computers. 
 I worked for an hour.
 
+## Monday, Jun 19
+
+I installed gentoo onto a tower, and installed arch linux onto that tower. I got FORGE modloader and optifine working together. I installed a few mods, and wrote the curriculum for the camp(an abstract version)
 
