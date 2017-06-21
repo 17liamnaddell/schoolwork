@@ -31,3 +31,7 @@ I worked for an hour.
 
 I installed gentoo onto a tower, and installed arch linux onto that tower. I got FORGE modloader and optifine working together. I installed a few mods, and wrote the curriculum for the camp(an abstract version)
 
+## Tuesday, Jun 20
+
+I wrote a program that swaps out the worlds for minecraft automatically
+did about 4 hours today
