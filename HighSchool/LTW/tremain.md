@@ -1,6 +1,7 @@
 why britian was taxing us (insert bill wertz video here)
 why taxation was unfair
 why we needed to go to war
+
 | a | n | i |
 |---|---|---|
 | taxation w/o representation just leads to more taxation | other india just had ghandi starve himself in public and briten left | 14 years old |
