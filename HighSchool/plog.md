@@ -35,3 +35,13 @@ I installed gentoo onto a tower, and installed arch linux onto that tower. I got
 
 I wrote a program that swaps out the worlds for minecraft automatically
 did about 4 hours today
+
+## Monday, July 3
+
+I installed gentoo linux on two operating systems(multiple days ago), and installed LFS on archie.
+LFS is the hardest linux distribution that is still maintained to install.
+also today, I installed two programs(a very hard task on lfs). They allow me to enteract with windows computers, and some linux computers
+
+## Tuesday, July 11
+
+I have recompiled the linux kernel more than 10 times already. and have 3 releases of the kernel. I got networking working on lfs, which is a feat. I also started a networking project in golang, and it worked. It took a few minutes, but is a good proof of concept
