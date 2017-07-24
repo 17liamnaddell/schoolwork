@@ -45,3 +45,19 @@ also today, I installed two programs(a very hard task on lfs). They allow me to 
 ## Tuesday, July 11
 
 I have recompiled the linux kernel more than 10 times already. and have 3 releases of the kernel. I got networking working on lfs, which is a feat. I also started a networking project in golang, and it worked. It took a few minutes, but is a good proof of concept
+
+## Wednsday, July 19
+
+Stayed up till 2:00 in the morning researching SDL
+My project is to make a web crawler in sdl
+it is hard
+
+## Thursday, July 20
+
+Recompiled the linux kernel 3 times, helped out some people in skilstak, and they helped out me, I also got sound working via headest.
+this is kewl
+
+## Monday, July 24
+
+I recompiled the kernel a lot, and got auxillary/jack speakers working with pulseaudio. Linux sound is overcomplicated at best, and was very difficult. I also got NFS working which is awesome. The answer to my month long problem was quite simple. A long time ago(a few days) I got mr robs graphical
+web crawler working
