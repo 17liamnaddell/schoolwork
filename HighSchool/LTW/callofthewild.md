@@ -81,4 +81,3 @@ after fighting them off, he finds the wild brother
 they become friends, and buck is in a new famary
 buck now gamer shots the yee hats
 he is known as an evil spirit
-fin
