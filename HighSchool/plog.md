@@ -61,3 +61,7 @@ this is kewl
 
 I recompiled the kernel a lot, and got auxillary/jack speakers working with pulseaudio. Linux sound is overcomplicated at best, and was very difficult. I also got NFS working which is awesome. The answer to my month long problem was quite simple. A long time ago(a few days) I got mr robs graphical
 web crawler working
+
+## Monday, July 31
+
+Finished the beta of a GUI pokeapi program. This is one of my best feats in a TOTALLY unexploared area. I also treid to isntall samba but failed lol
