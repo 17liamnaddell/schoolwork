@@ -1,3 +1,5 @@
+## Introduction
+
 The classic American literature known as "The Call of the Wild" has many adoring fans, but is this stellar book secretly a proponent of animal cruelty? It will be shown that the innocent-at-first book known as call of the wild is secretly infatuated with animal cruelty for these following reasons. One the abhorrent violence is never cast in a dark light. Two, the dogs grow surrounded in violence as both perpetrator and victim. And finally the law of tooth and club.
 
 ## Proof
