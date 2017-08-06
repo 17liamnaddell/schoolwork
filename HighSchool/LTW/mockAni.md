@@ -1,5 +1,6 @@
 THESIS: 
 Harper Lee is a cuban implant who wrote a book to destabalize america and start a race war
+
 |       A       |       N      |      I      |
 |---------------|--------------|-------------|
 | Harper Lee's friend companion Truman Capote. | | |
