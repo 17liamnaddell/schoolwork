@@ -20,7 +20,7 @@ Harper Lee is a cuban implant who wrote a book to destabalize america and start 
 | She was friends with trueman capote for a long time, even since they were kids | All children have friends | scout is kind of a tom boy. |
 | She was seen again in 2007 when she was given an adward by bush.(the doer of 9/11) | Her book was good, you liked it... | she needs to learn to speak with her mouth instead of fists |
 | She accepted this award right as raul castro stepped up to take over the island's responsablilities. | That part of the conspiracy makes no sense, why would she come back, she has nothing to fear. | gunshot incadent with the radleys scares the kids |
-| The biggest black character in the book got shot a prison guard at the end of the book | That is what happened at the time | |
+| The biggest black character in the book got shot a prison guard at the end of the book | That is what happened at the time | at the end boo radley saves them |
 | It was 1960, and almost all of the people there were racists, so the books anti-racism stance does not make sense | It makes sense from a human perspective | Maycomb has a large racist community, and the kids are hazed during school |
 | The characters faith in justace is shaken. | Justice was only partial at the time | They like black church |
 | And the book tries to shake your faith in justice to start a race war and destabalize america | crappy way of destabalizing america | tom robinson(black) is accused of rape |
