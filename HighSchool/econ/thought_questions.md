@@ -5,7 +5,7 @@ People do not spend money if they are sad, and the more of something there is; t
 The econemy effects us every time we spend money. Inflation and deflation can make our money worthless or make us millionares tomorrow. It is integral to living in a capitalist society because if you do not understand the forces that drive our daily living condition, then we will be screwed over by
 it at some point
 
-2. 
+2. What are the root of america's financial problems
   1. What problems do we have?
     1. Lots of legal loopholes in the tax code, villanization of the IRS and we don't care about problems until we have a crisis with them. To sum it up, being human
 
