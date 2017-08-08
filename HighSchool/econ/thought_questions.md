@@ -6,8 +6,8 @@ The econemy effects us every time we spend money. Inflation and deflation can ma
 it at some point
 
 2. What are the root of america's financial problems
-  1. What problems do we have?
-    1. Lots of legal loopholes in the tax code, villanization of the IRS and we don't care about problems until we have a crisis with them. To sum it up, being human
+	1. What problems do we have?
+	1. Lots of legal loopholes in the tax code, villanization of the IRS and we don't care about problems until we have a crisis with them. To sum it up, being human
 
 3. Yes, I watch many _Planet Money_ videos, and I watch lots of _The Phillip Defranco show_. 
     
