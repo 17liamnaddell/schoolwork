@@ -48,8 +48,8 @@
 # Refutation
 
   1. Even though I have "proved" that _To Kill a Mockingbird_ was a Cuban implant, some may still be in disbelief for two reasons. 
-  2. This is just a conspiracy
-    1. This is a rediculous conspiracy theory that has no real evidence other than coincidence and speculation.
+  2. This is just a conspiracy 
+  1. This is a rediculous conspiracy theory that has no real evidence other than coincidence and speculation.
     2. ... Anyways next question. 
   3. This is a terrible way of destabalizing america.
     1. A race war (which this thing could not even cause) would be a terrible way of destabalizing the country because this social issue would not reach government level in enough time.
