@@ -65,3 +65,7 @@ web crawler working
 ## Monday, July 31
 
 Finished the beta of a GUI pokeapi program. This is one of my best feats in a TOTALLY unexploared area. I also treid to isntall samba but failed lol
+
+## Monday, August 9
+
+I created two more programs that will/were licensed under gpl-2.0, one is a cipher project, one is a timeline project for keeping track of my timeline of historical figures I need to create for school
