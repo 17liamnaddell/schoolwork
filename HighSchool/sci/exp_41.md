@@ -22,3 +22,24 @@
 * wait
 * Dont drink water
 * Look at the gasses
+
+## Lab Parteners:
+
+Andrew
+
+## Purpose 
+
+Show the chemical composition of water.
+
+## Date
+
+Mon Sep 25 11:42:17 EDT 2017
+
+## Observations
+
+* We did the expirement correct, b/c the gas in the water in one tube was about two times the gas in the other.
+* It was this way b/c water is H20, so there should be more H than O in it.
+* The water never turned a nasty colour
+* The rates were a little off
+
+
