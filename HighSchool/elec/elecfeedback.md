@@ -1,11 +1,14 @@
 # Electronic feedback
 
-This allows us to tame opamp gain
-Electronic feedback is feedback without moving parts such as motors
-To find the gain of a opamp with negative feedback in the negative terminal, we need to find vout/vin
-Warning: math and graphical explanations alert: I cannot really explain what is going on here lol
-After a lot of math we get that vout=-(Rf/Rin)Vin
-OpAmp rules
+1. This allows us to tame opamp gain
+  1. This allows us to tame the opamp gain because the more current will balance out the zero positive input dedicated to this circuit. 
+1. Electronic feedback is feedback without moving parts such as motors
+  1. This is more accurate because it does not rely on the delay of motorized parts
+1. To find the gain of a opamp with negative feedback in the negative terminal, we need to find vout/vin
+1. Warning: math and graphical explanations alert: I cannot really explain what is going on here lol
+1. After a lot of math we get that vout=-(Rf/Rin)Vin
+
+# OpAmp rules
 
 1. No current flows into the opamp inputs
 2. W/ negative feedback, v+=v-
