@@ -1,0 +1,3 @@
+# Summary for how much money
+
+Giving people more money does not help the economy, if everyone got 100 dollars, we would not all be richer; money would just be worth less. He is in favour of the gold standard because he thinks it is gold is valuable, it is hard to counterfit, and it is non-inflationary(not really). We all know gold has value, so it would be good there, but the claim that gold is hard to counterfiet is wrong, governments can dilute gold, and clip, and do all other kinds of things to mess with gold. Finally he says that gold is non-inflationary, but that is not true, because more gold can be discovered, and the price of gold can go up
