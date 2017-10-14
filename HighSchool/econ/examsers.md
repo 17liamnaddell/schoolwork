@@ -8,10 +8,10 @@
 8. The business cycle is a loop of the following events. Inflation➜ Businessmen make mistakes➜ People lose money➜ People call for more inflation(Really isn't true)
 9. Inflation is when money becomes more worthless, deflation is when money becomes more valuable
 10. Ok
-  1. Prostitution
-  2. Drug sales
-  3. Illegal firearms sales
-  4. Illegal liquor sales
+    1. Prostitution
+    2. Drug sales
+    3. Illegal firearms sales
+    4. Illegal liquor sales
   5. Hitmen
 11. How much money there is in circulation.
 12. Velocity is how fast money travels around the market.
