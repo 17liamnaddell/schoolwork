@@ -30,8 +30,10 @@ Demonstrate the fact that the atmosphere actually does exerrt pressure on everyt
 4. Fill a bowl with ice water
 5. Put sum ice kubes in it
 6. Put aluminum can face down in ice kube water
-Noticings:
-The cans that were placed face up did absolutely nothing besides create a little steam.
-I failed to place two cans in properly, one can failed to crush.
-The crushing was dramatic and instentainious.
-It was very cool, and I would love to do it at home, and probably will.
+
+## What we noticed
+
+1. The cans that were placed face up did absolutely nothing besides create a little steam.
+2. I failed to place two cans in properly, one can failed to crush.
+3. The crushing was dramatic and instentainious.
+4. It was very cool, and I would love to do it at home, and probably will.
