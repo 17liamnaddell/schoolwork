@@ -6,3 +6,6 @@
 6. High School Monday Sept 25 Inkscape Clone - Inkscape clone and parametric Design
 7. 09/27/17 High School Lesson 6 - Inkscape Final/Setting up Raspberry Pi 
 8. 10/04/17 High School Lesson 7 - CodeCombat (Raspberry Pi)
+9. Oct16 Sense Hat
+10. 10/18/17 Sense Hat 2
+11. Hs monday oct23 SensePi
