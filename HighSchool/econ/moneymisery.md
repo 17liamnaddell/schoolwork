@@ -117,11 +117,11 @@ The economy is erratic
 
 * Nobody gives two wet farts about 1980s crashes
 * How bout focus on 2008 or '31 
-* Econ is uncertain, but I still explain everything in absolute terms 
+* "Econ is uncertain, but I still explain everything in absolute terms"
 
 #### Summary
 
-I have no idea
+Claims that the hair-trigger exists, each injection of new money causes more disorganization of firms and employees. 
 
 ### Ch 15
 
