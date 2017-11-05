@@ -2,7 +2,7 @@ Roaring 20's/gilded age
 
 # Who was part of the gilded age? 
 
-Many people, such as the Vanderbuilts and the asters, fishes and many others. These people were also called the nuvo riesh, French for "New Rich". these new rich people spent millions of dollars(in that times money) on vast estates known as "mansions".
+Many people, such as the Vanderbuilts and the asters, fishes and many others. These people were also called the nuvo riesh, French for "New Rich". these new rich people spent millions of dollars(in that times money) on vast estates known as "cotteges".
 
 # What life was like in these houses. 
 
