@@ -8,7 +8,7 @@
 6. He was shouting in church, so much that the priest dropped the book
 7. Some say he punched the priest
 8. Then he aggresively facebattled his to be wifu
-9. He then leaves abruptly
+9. He then leaves abruptly                                            
 
 ## Interviews
 
