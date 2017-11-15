@@ -9,3 +9,5 @@
 9. Oct16 Sense Hat
 10. 10/18/17 Sense Hat 2
 11. Hs monday oct23 SensePi
+12. Something
+13. Self driving cars
