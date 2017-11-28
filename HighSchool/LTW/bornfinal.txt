@@ -1,0 +1,13 @@
+This was the biggest case of scandal in american history, and the balence of justice could be tipped in favour of one side depending on this singular decision. There was mass outcry at the infamous watergate scandal that had been rounding the news for months. This story alleged that Richard Nixon had broken into the democrats' headquarters in Watergate. Now, the courts would battle it out for the final verdict. The action in question is the decision not to hold the trial later in the year. While many think that the trial should have been delayed, others think that it should not have been.
+	3. WTH?
+This trial should not have been delayed for three reasons: One, there was bias in the courtroom. Two, he was harmless; and finally, this case was REALLY important
+
+Firstly, there was bias. In the book, there were shown to be thousands of articles against him, making it nearly impossible to find a jury. This compounds in the fact that the judge would have already been against him. How can you have a right to a fair trial as put in the 6th amendment if everyone is biased against the defendant.
+
+Secondly, he was harmless. He was not a murderer, and was not going to run away. There was no tangable harm to other people by waiting for a fair trial to occur. Even if you thought he was going to run away, then just put him under house arrest. Even that is unnecisary as he was basically under house arrest anyways. 
+
+And finally, it was an important case. There were multiple riots, increadibly angry people all over the place, and justice needed to be served. But just because there is a lack of justice, does not mean that we should rush it out onto all cases available. Otherwise there would be no point to justice in the first place. If we cannot be sure as to the fact that the people we are throwing in jail are actually criminals, then we need to reevaluate who we are throwing in jail.
+
+While we all think people should have a right to a fair trial, delaying the trial would have done nothing to help; time will not necissarily make the courts magically unbiased. But, this is incorrect because time will make people calm down. It would have created riots; delaying the trial would have looked corrupt, and subsequently caused riots. Riots would have been caused no matter what, and riots are worth a fair trial. In conclusion, The trial for watergate should have been postponed until public resentment died down for the following three reasons:. There was bias, he was harmless, and 3, It was important.
+20. This case was increadibly important to all americans
+349324. Because it was about the biggest political scandal in american history, only rivaled by decisions like "should we leave the english monarcy"
