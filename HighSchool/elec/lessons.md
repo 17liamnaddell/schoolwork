@@ -11,3 +11,5 @@
 11. Hs monday oct23 SensePi
 12. Something
 13. Self driving cars
+14. HS YEOT Monday Nov13 Sense Hat Minecraft
+15 Artaficial intellergance
