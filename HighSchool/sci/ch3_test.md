@@ -5,3 +5,4 @@
 5. A
 6. A, I don't know how much the object's mass changes though
 7. B
+8. 90N if you already have gotten it started.
