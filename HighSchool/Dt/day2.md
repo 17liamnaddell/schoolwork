@@ -195,6 +195,7 @@ What can make u lose ur license on the spot:
 
 
 ## What to do after losing license
+
 1. Go to any driver license office
 2. Show proof of eligability
 3. Pay a fee
