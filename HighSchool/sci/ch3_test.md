@@ -5,7 +5,7 @@
 5. A
 6. A, I don't know how much the object's mass changes though
 7. B
-8. 90N
+8. 90N if you already have gotten it started.
 9. 5mps^2 - a=fnet/m
 10. doubles
 11. Niether
@@ -15,4 +15,3 @@
 15. idk
 16. Because each action has an equal and opposite reaction.
 17 Because the baseball exerts a force on your hand, and the glove absorbs that force.
-
