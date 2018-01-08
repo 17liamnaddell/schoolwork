@@ -1,0 +1,2 @@
+"Whenever unemployment drops as low as it is now — 5 percent in the U.S. as of March — employers start to complain about labor shortages. Business associations for manufacturers, small businesses and technology firms have been beating the drum for several years now saying it is ever-more difficult to find and hire qualified workers for positions they currently have open."
+https://www.marketplace.org/2016/04/19/world/15-years-labor-shortages-predicted-us-economy
