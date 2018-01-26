@@ -55,4 +55,28 @@
   2. Nasa says they will launch rockets in 2030 && 25
   3. "Can we get to mars? The answer is yes." && 25
   4. The new question: Can we live on mars? The answer to that is yes, too, but as Elon Musk might say, it's tricky. && 25
+"day
+21. http://www.aleph.se/Trans/Tech/Space/mars.html 
+  1. It is also shown that while Mars may lack any cash material directly exportable to Earth, Mars' orbital elements and other physical parameters gives a unique positional advantage that will allow it to act as a keystone supporting extractive activities in the asteroid belt and elsewhere in the solar system.
+  2. Under conditions of such large scale immigration, sale of real-estate will add a significant source of income to the planet's economy.
+  3. In contrast to the Moon, Mars is rich in carbon, nitrogen, hydrogen and oxygen, all in biologically readily accessible forms such as CO2 gas, nitrogen gas, and water ice and permafrost. 
+  4. the energetics of plant growth make it inconceivable to raise crops on any kind of meaningful scale with artificially generated light.
+  5. Mars, on the other hand, has an atmosphere of sufficient density to protect crops grown on the surface against solar flares. On Mars, even during the base building phase, large inflatable greenhouses made of transparent plastic protected by thin hard-plastic ultra-violet and abrasion resistant geodesic domes could be readily deployed, rapidly creating large domains for crop growt
+  6.  On Mars, in contrast, the strong greenhouse effect created by such domes would be precisely what is necessary to produce a temperate climate inside.
+  7. If made of high strength plastics such as Kevlar, such a dome could have a safety factor of 4 against burst and weigh only about 4 tonnes, with another 4 tonnes required for its unpressurized Plexiglas shield. In the early years of settlement, such domes could be imported pre-fabricated from Earth. Later on they could be manufactured on Mars, along with larger domes
+  8. Mars will not have the division of labor required to make it fully self-sufficient until its population numbers in the millions.
+  9. However, with a cost per launch of about $1 billion, the cost per immigrant would be $40 million. Such a price might be affordable to governments (for a time), but not to individuals or private groups. If Mars is ever to benefit from the dynamic energy of large numbers of immigrants motivated by personal choice to seek to make their mark in a new world, the transportation fee will have to drop a lot lower than this. Let us therefore examine an alternative model to see how low it is likely to dr
+  10. There is an immense amount of it - 143 million square kilometer<Paste>
+Selling martian real-estate
+31. www.youtube.com/watch?v=8yU33cguGaY 
+  1. Radiation exposure from the sun can kill you including gamma rays, x rays, ect
+  2. Solar flares can kill you  
+  3. You can die trying to land on mars
+  4. You can lose your vision if you stay in low-gravity enviorns for too long
+  5. Your bones and mucles can die in space
+  6. Mars gravity is 3.711
+  7. You can't breathe martian air
+  8. We could terraform mars to be more like earth by globally warming, planting plants, but its far fetched
+  9. The crew could hate each other
+
 
