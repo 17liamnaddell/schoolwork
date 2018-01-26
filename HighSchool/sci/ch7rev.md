@@ -29,4 +29,4 @@
 24. 8100KwH and 729$
 25. 0.9?
 
-[pic]: http://dolater.co.uk
+[pic]: https://github.com/liamnaddell/schoolwork/blob/master/HighSchool/sci/d1.svg
