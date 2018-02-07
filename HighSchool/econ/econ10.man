@@ -1,0 +1,63 @@
+.TH econch10test 1 "Econ answers for chapter 10" "Questions for Review" "Quick Check Multiple Choice"
+
+.in 2
+.SH "Give an example of a negative externaity and an example of a positive externaity"
+
+Pollution is a negative externality, and growing trees are a positive externality
+
+.SH "Draw a supply-and-demand diagram to explain the effect of a negative externality that occurs as a result of a fimr's production process"
+
+In ~/repos/pictures/econ1.png
+
+.SH "In what way does the patent system help society solve an externality problem"
+
+The patent system allows small or large inventors to protect and legally own an idea they create. This means that people are encouradged to R&D more efficient solutions to creating a product because they can recoup their initial investment
+The patent system solves an externality problem with positive spillover effects.
+
+.SH "What are corrective taxes? Why do economists prefer them to regulations as a way to protect the enviornment from pollution?"
+
+Corrective taxes are taxes that attempt to raise or lower the price of a good by its cost to society in order to internalize the effects of a externality
+
+Economists prefer them to regulation becuase they require less enforcement, and the gov't isn't involved as much, as well as it is easier to not just regulate the people with the least political clout
+
+.SH "List some of the ways that the problems caused by externalities can be solved without govt intervention"
+
+.nr step 1 1
+.IP \n[step] 3 
+Morals like the golden rule
+.IP \n+[step]  
+Chareties like the Sierra Club
+.IP \n+[step]  
+Self-Interests, one company could buy the other, then that way internalize the externality
+
+.SH "Imagine that you are a nonsmoker sharing a room with a smoker. According to the Coase theorem, what determines whether your roommate smokes in the room? Is this outcome efficient? How do you and your roommate reach this solution?"
+
+According to the Coase theorem, I would have to pay my roommate more than he values his ability to smoke in the room. If my roommate values smoking in the room at 500$, then I would have to pay him 501$ in order to get him to stop smoking in the room. 
+
+In this case, it would be efficient because the highest 'bidder' got their way.
+
+We reached this solution by talking to each other, and at no cost to each of us(besides time)
+
+.SH "Which of the following is an example of a positive externality?"
+
+Hillary's newly cut lawn makes her neighborhood look nicer
+
+.SH "if the production of a good yields a negative externality, then the social cost curve lies ________ the supply curve, and the socially optimal quantity is _____ than the equilibrium quantity"
+
+above,greater
+
+.SH "When the government levies a tax on a good equal to the external cost associated with the good's production, it ______ the price paid by consumers and makes the market outcome ______ efficient.
+
+increases,more
+
+.SH "Which of the following statements about corrective taxes is NOT true?
+
+A corrective tax does not really raise govt revenue b/c it corrects for a negative externality, and thus the price of the negative externality-the cost of the tax=0, so they don't raise govt revenue
+
+.SH "The government auctions off 500 units of pollution right. They sell for 50$ per unity, raising total revenue of 25000. THis policy is the equivalent to a corrective tax of _____ per unit of pollution."
+
+Say each unit of pollution can be used to create 1 good, and one good costs $250. in order to generate 25000, the government must divide 25000 by the amount of that good sold. Assuming the amount of that good sold is 500, 25000/500=50. Therefore we must raise the price by $50
+
+.SH "The Coase theorem does NOT apply if..."
+
+c, companies won't talk if they lose money doing so

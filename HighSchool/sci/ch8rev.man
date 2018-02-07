@@ -1,0 +1,127 @@
+.TH "Chapter 8 review for Physical Science" 1 "test" "test2" "test3"
+
+.SH "A ______ can be used to change the voltage of an alternating current"
+
+Answer is "transformer"
+
+.SH "A ________ is the region where the magnetic field of a magnet is strongest."
+
+Answer is magnetic pole
+
+.SH "______ Does not change direction"
+
+Magnetic field
+
+.SH "The properties and interactions of magnets are called ____"
+
+Magnetism
+
+.SH "an ___________ can rotate in a magnetic field when a current passes through it"
+
+electromagnet
+
+.SH "The magnetic poles of atoms are aligned in a(n) _______"
+
+Magnetic Domain
+
+.SH "A device that uses an electromagnet to measure electric current is a(n) ________"
+
+galvanometer
+
+.SH "Where is the magnetic force exerted by a magnet strongest"
+
+A. both poles
+
+.SH "Which change occurs in an electric motor?
+
+A. Electrical energy to mechanical energy
+
+.SH "what happens to the magnetic force as the distance between two magnetc poles decreases?"
+
+b. Decreases
+
+.SH "Which of the following best describes what type of magnetic poles the domains at the north pole of a bar magnet have?"
+
+North and south becuase the book says that domains act like tiny magnets on their own w/ a north+south pole
+
+.SH "Which of the following would not change the strength of an electromagnet?"
+
+B. Chanigng the current's direction
+
+.SH "Which of the following would NOT be part of a generator"
+
+B. Battery lol
+
+.SH "Which of the following describes the direction of the electric current in AC?
+
+C. Changes regularly
+
+.SH "Copy and complete this Venn diagram Include the functions,part names, and power sources for these devices."
+
+Too vague
+
+AC Generators Produce alternating current that switches direction, and generally looks like a sine wave. DC motors take direct current, then transfer them into mechanchal work. They both need devices that transform current in order to work.
+
+.SH "Using the diagram, describe the function of the permenent magnet, the electromagnet, and the current source in a simple electric motor"
+
+The battery produces the current that powers the electromagnet. The permenent magnet rotates the electromagnet, and the electromagnet attaches to the commutator
+
+.SH "Describe the sequence of steps that occur in an electrc motor that forces the coil to spin. Include the role of the communtator in your description."
+
+The permenent magnet and the coil serve to rotate the coil provding mechanical work. The electromagnet is then disconnected from the current source. Using interta, the coil keeps rotating, then the current flips when the coil is connected again, and it keeps rotating.  The commutor rotates, and is part of a closed-loop circuit with the brushes, and the commutator is the end of the electric motor, where the mechanical work is output
+
+.SH "How much larger is the magnetic field strength 1 cm from the wire compared to 5cm from the wire?"
+
+at 1cm, its 12, and at 5cm its 4. So, at 12cm, its 3 times as large
+
+.SH "Does the magnetic field srength decrease more rapidly with distance closer to the wire or farther from the wire? Explain."
+
+The graph is curved, so one of these cases will be true, the difficult part is which one. We can test this by looking at the decrease from a square near the top of the graph, and a square near the bottom of the graph.
+
+In the distance from 0 to 1, the Magnetic Field decreases by two tiles. 
+
+In the distance from 3 to 10, it almost goes down by one whole tile. 
+
+This means that the magnetic strength decreases more rapidly with distance closer to the wire.
+
+.SH "Using the graph, estimate the magnetc feld strength 11 cm from the wire"
+
+about 1.9
+
+.SH "Infer how you could you use a horseshoe magnet to find the drection north."
+
+TYPO?
+
+A compass needle points north, and the compass needle has a north poled magnet at the end of it, so we can use a horseshoe magnet in the same way
+
+.SH "Explain In Europe, generators produce alternating current at a frequency of 50 Hz. Would the electrc appliances you use in North America work if you plugged them into an outlet in Europe? Why or why not?"
+
+Most devices use DC current so they use an AC2DC converter in order to do anything. So, hz would not matter because that does not make it into the final device. 
+the other difference is in voltage, with europe being at 240v and america coming in at 120. Some devices that need that 240v would not work. 
+
+.SH "Predict Two generators are identical except for the loops of wire that rotate through their magnetic felds. One has twice as many turns of wire as the other one does. Which generator would produce the most electric current? Why?"
+
+The one with twice the loops because one of the propertes of electromagnets is the ability to increase or decrease the amount of magnetic field by adding or subtracting more coils.
+
+.SH "Explain why a bar magnet will attract an iron nail to eather ts north or south pole, but attract another magnet to only one of its poles.
+
+An iron nail does not have all its electrons' magnetic fields pointing the same way, so it will attract to both ends because it isn't a permenent magnet.
+
+Some other magnets though are what is called permenent magnets, and they have distinct poles because their electrons all point the same direction.
+
+.SH "Compare and contrast electromagnetic inducton and the formation of electromagnets."
+
+The generation of a current by a changing magnetc field is electromagnetc induction
+
+An electromagnet is a temporary magnet consisting of a current carrying wire wrapped around an iron core
+
+Wth am I supposed to compare and contrast?
+
+.SH "Calculate A step-down transformer reduces a 2400V current to 120V. If the primary coil has 500 turns of wire, how many turns of wire are there on the secondary coil?
+
+\\frac{2400}{120} = 20,\\frac{500}{20}=25
+
+.SH "LAst problem, too long to write out"
+
+1000=12000/12
+So, a ratio of 1:1000

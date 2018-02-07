@@ -1,0 +1,22 @@
+.TH "Ch 11 qs" 1 "test1" "test2" "test3"
+
+.SH "Explain what is meant by a good being excludable. Explainwhat is meant by a good being rival in consumption. Is a slice of pizza excludable? Is it rival in consumption?"
+
+A good being excludable is when people can be prevented from using the good
+
+Rival in consumption is when one persons use of the good reduces another persons ability to use it
+
+By that logic, a piece of pizza is both excludable, and rival in consumption, becauase people can be prevented from using the good, and there is only so much pizza in the world, so it is also rival in consumption
+
+.SH "Define and give an example of a public good. Can the private market provide this good on its own? Explain."
+
+Open source software for the most part is a public good. The private market cannot provide this good on its own because almost by nature the good is free or paid with donations.
+
+
+.SH "What is the cost-benefit analysis of public goods? Why is it important? Why is it hard?"
+
+A cost benefit anaisis of a public good is when an economist tries to judge weather a public service should be provided based on the costs to some, and the benefits to others, and determine the most efficient outcome
+
+It is important because it is the govt's job to help society, and many times, its job is to provide public goods. In order to determine if a good will benefit society, a cost-benefit analysis is neccissary.
+
+It is hard because both sides of a public good argument will exagerate the harms/benefits of the good's existance. There is no equilibrium price because people do not have to pay, so there is no fact in the market really. 

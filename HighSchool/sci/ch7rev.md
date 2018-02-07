@@ -11,7 +11,7 @@
 11. B
 12. A
 13. B
-14. 
+14. answers below 
   1. 2.608695
   2. 10
   3. 30
@@ -20,7 +20,7 @@
 15. Electric current flows in a conductor due to pressure produced by the electrons inside of it. Electric current flows in a conductor and is opposed by resistance that is small for metals and is large for wood.
 16. Put an osciloscope at the end of the two batteries. You can rearrange the batteries, try different wiring
 17. Induction involves an object charging via electronic field, so if we add another non-conductive element, less of that electronic field will be available for the metal rod to charge up using
-18.No electricshock becuase glass is non-conductive. If it was metal, then maybe yes
+18. No electricshock becuase glass is non-conductive. If it was metal, then maybe yes
 19.  Because most objects are electrically neutral, so they have barely any electronic force.
 20. Drawn :), here is link ![picture][pic]
 21. 0.8, i=V/R

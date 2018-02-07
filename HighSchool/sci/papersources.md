@@ -21,8 +21,6 @@
   1. In “The Martian,” Mark Watney uses the Martian soil to grow potatoes in the controlled environment of the “Hab.” In reality, the soil on Mars actually does have the nutrients plants would need to survive on Mars! There may not be the right amount of nutrients depending on where astronauts land on the Red Planet, so fertilizers may need to be added to the soil. The perchlorates in the soil would be leached out and separated from the water.
 9. http://phoenix.lpl.arizona.edu/mars111.php
   1. Is chart on site
-10. https://www.nasa.gov/press-release/nasa-confirms-evidence-that-liquid-water-flows-on-today-s-mars
-  1. https://www.nasa.gov/press-release/nasa-confirms-evidence-that-liquid-water-flows-on-today-s-mars
 11. https://data.worldbank.org/indicator/AG.LND.ARBL.ZS?locations=US
   1. CHart on site
 12. https://www.westernwatersheds.org/watmess/watmess_2002/2002html_summer/article6.htm
@@ -67,7 +65,12 @@
   8. Mars will not have the division of labor required to make it fully self-sufficient until its population numbers in the millions.
   9. However, with a cost per launch of about $1 billion, the cost per immigrant would be $40 million. Such a price might be affordable to governments (for a time), but not to individuals or private groups. If Mars is ever to benefit from the dynamic energy of large numbers of immigrants motivated by personal choice to seek to make their mark in a new world, the transportation fee will have to drop a lot lower than this. Let us therefore examine an alternative model to see how low it is likely to dr
   10. There is an immense amount of it - 143 million square kilometer<Paste>
-Selling martian real-estate
+  11.  By habitable real-estate I mean that which is under a dome, allowing human settlers to live there in a relatively conventional shirt-sleeve open-air environment.
+  12. Open real-estate is that which is outside the domes. It is obvious that habitable real-estate is far more valuable than open real-estate. Nevertheless, both of these can be bought and sold, and as transportation costs drop, both forms of Martian real-estate will rise in value. 
+  13. Not so. Enormous tracts of land were bought and sold in Kentucky for very large sums of money a hundred years before settlers arrived
+  14. In fact, if a mechanism were put in place that could enforce private property rights on Mars, land on Mars could probably be bought and sold now. Such a mechanism would not need to employ enforcers (e.g. space police) on the surface of Mars; the patent or property registry of a sufficiently powerful nation, such as the United States, would be entirely adequate.
+  15. Sold at an average value of $10 per acre, Mars would be worth $358 billion. If Mars should be terraformed, these open land prices could be expected to grow 100-fold, with a rough planetary land value of $36 trillion implied.
+  16. Far more valuable than the open real-estate will be habitable real estate beneath the domes. Each 100 meter diameter dome, massing about 50 tonnes (32 tonnes for the inflatable Kevlar pressure dome, 16 tonnes for the Plexiglas geodesic rigid shield dome, 2 tonnes for miscellaneous fittings), would enclose an area of about 2 acres. Assuming that dwelling units for 20 families are erected within it, and each family is willing to pay $50,000 for their habitation land (a plot 20 meters on a side), then the total real-estate value enclosed by a single dome would be $1,000,000.
 31. www.youtube.com/watch?v=8yU33cguGaY 
   1. Radiation exposure from the sun can kill you including gamma rays, x rays, ect
   2. Solar flares can kill you  
@@ -78,5 +81,12 @@ Selling martian real-estate
   7. You can't breathe martian air
   8. We could terraform mars to be more like earth by globally warming, planting plants, but its far fetched
   9. The crew could hate each other
+32. 
 
+
+Other sources:
+http://www.marssociety-europa.eu/wp-content/uploads/2011/10/Near-Term-Mars-Mission-Options_Zubrin_1993_21.pdf
+http://www.bibliotecapleyades.net/universo/terraforming/terraforming22.htm
+https://www.sae.org/publications/technical-papers/content/1999-01-2206/
+http://www.bibliotecapleyades.net/universo/terraforming/terraforming03.htm
 
