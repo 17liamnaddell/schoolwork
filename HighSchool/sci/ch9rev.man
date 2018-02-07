@@ -1,0 +1,10 @@
+.SH "A(n) ______ uses the Sun to generate electricity."
+photovoltaic cell
+
+.SH "______ makes use of thermal energy inside the earth"
+
+geothermal plants
+
+.SH "Energy produced by the rise and fall of ocean levels is a(n) _______"
+
+hydroelectric plant. There is one in nova scotia

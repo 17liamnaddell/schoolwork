@@ -1,0 +1,39 @@
+.SH "In a published source or on the Internet, find out whether the US federal gov't had a budget deficet or surplus last year. What do policymakers expect to happen over the next few years?"
+
+http://www.usdebtclock.org/
+
+According to this we are about 20,624,715,000,000 dollars in debt, this means we have a deficet
+
+https://www.cbo.gov/publication/53514
+
+According to the Congressional Budget Office, we are projected to reach the debt ceiling in late March
+
+.SH "The information in many of the tables in this chapter can be found in the Economic Report of the President, which appears annually. Using a recent issue of the report at your library or on the Internet, anser the following questions and provide some numbers to support your answers"
+
+a. This can be attributable to changes in local government because in Figure 1 shows state and local being way larger than the government income
+b. Figure 1 does not tell me
+c. I don't know
+
+.SH "This chapter states that the elderly population in the United States is growing more rapidly than the total population. In particular, the number of workers is rising slowly, while the number of retirees is rising quickly. Concerned about the future of Social Security some members of Congress propose a "freeze" on the program"
+
+What does frozen mean? Im assuming it means held in place.
+
+a. As more retireees benefit from social security, more funds must be added to keep benefits per retiree the same. If we freeze social security funds, then there will be less benefits per retiree. Since the workers are the ones paying hte tax, and since funds are frozen, then they will not have to pay any more taxes for social security. Since the number of workers grows slowly, there will soon be more workers to split up the taxes amoung, and thusly less taxes will be needed on a per worker basis.
+b. Since the amount of retirees is going up, there would be more benefits needed to keep the benefits per retiree ratio up. This would mean that total expenditures would go up, and tax payments per worker would have to go up as well assuming the government does not start going into debt.
+c. If tax payments per worker was frozen, then there would slowly be an uptick in taxes collected, but not enough to outpace the amount of retirees. This would mean less benefits per retiree, and total expenditures would skyrocket.
+d. The most politically viable option is to go into debt.
+
+.SH "Suppose you are a typical person in the U.S. economy. You pay 4 percent of your income in a state income tax and 15.3 percent of your labor earnings in federal payroll taxes( employer and employee shares combined). You also pay federal income taxes as in Table 3. How much tax of each type do you pay if you earn $20,000 a year? Taking all taxes into account, what are your average and marginal tax rates? What happens to your tax bill and to your average and marginal tax rates if your income rises to $40,000?"
+
+Cant find anything about payroll taxes in the Key Concepts section, so I am going to treat it as a normal tax on income
+
+20,000$ a year:
+    4/100*20,000=800
+    15.3/100*20000=3060
+    15/100*20000=3000
+    You would pay 6860 in taxes, and your average tax rate would be 0.343. Your marginal tax rate would be 33/100*1
+40,000$ a year:
+    You would pay 15.3 percent+4 percent+25 percent(25 percent b/c of the progressivity of the tax system in the year 12013). You would pay 17720$ in taxes, and would have an averadge tax rate of 0.443, and would have a marginal tax rate of 0.443/100*1
+    
+
+
