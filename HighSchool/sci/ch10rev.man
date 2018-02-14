@@ -1,0 +1,24 @@
+.SH "1. Compare and contrast reflection and refraction"
+
+"Refraction occurs when a wave changes direction as it moves from one medium to another"
+
+Reflection is exactly what it says on the tin
+
+Refraction and Reflection are sort of similar because they both mess with the normal course of a wave. The differences come into play when we look at the exact effects they have. Refraction only slows down or speeds up a wave, but reflection completely turns it around
+
+.SH "Which type of wave has points called nodes that do not move?"
+
+Standing waves
+
+.SH "Which part of a compressional wave has the lowest density?"
+
+rarefaction
+
+.SH "Find two words in the vocabulary list that describe the bending of a wave"
+
+What do you mean by bendng, none of the terms reference it
+
+.SH "What occurs when waves overlap?"
+
+Interference
+

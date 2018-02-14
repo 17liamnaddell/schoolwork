@@ -1,3 +1,5 @@
+.TH "Ch 12 rev" 1 "econ" "ch12" "test"
+
 .SH "In a published source or on the Internet, find out whether the US federal gov't had a budget deficet or surplus last year. What do policymakers expect to happen over the next few years?"
 
 http://www.usdebtclock.org/
@@ -10,8 +12,10 @@ According to the Congressional Budget Office, we are projected to reach the debt
 
 .SH "The information in many of the tables in this chapter can be found in the Economic Report of the President, which appears annually. Using a recent issue of the report at your library or on the Internet, anser the following questions and provide some numbers to support your answers"
 
-a. This can be attributable to changes in local government because in Figure 1 shows state and local being way larger than the government income
+a. This can be attributable to changes in local government because in Figure 1 shows state and local being way larger than the government income. As of 1902, the govt revenue was around 3 million in total for federal govt and 7.5 million total for state and local govts. As this graph in figure 1 shows that state and local taxes are always larger than federal, it is safe to assume the majority of increases in taxes have been caused by state and local taxes.
+
 b. Figure 1 does not tell me
+
 c. I don't know
 
 .SH "This chapter states that the elderly population in the United States is growing more rapidly than the total population. In particular, the number of workers is rising slowly, while the number of retirees is rising quickly. Concerned about the future of Social Security some members of Congress propose a "freeze" on the program"
@@ -19,9 +23,12 @@ c. I don't know
 What does frozen mean? Im assuming it means held in place.
 
 a. As more retireees benefit from social security, more funds must be added to keep benefits per retiree the same. If we freeze social security funds, then there will be less benefits per retiree. Since the workers are the ones paying hte tax, and since funds are frozen, then they will not have to pay any more taxes for social security. Since the number of workers grows slowly, there will soon be more workers to split up the taxes amoung, and thusly less taxes will be needed on a per worker basis.
+
 b. Since the amount of retirees is going up, there would be more benefits needed to keep the benefits per retiree ratio up. This would mean that total expenditures would go up, and tax payments per worker would have to go up as well assuming the government does not start going into debt.
+
 c. If tax payments per worker was frozen, then there would slowly be an uptick in taxes collected, but not enough to outpace the amount of retirees. This would mean less benefits per retiree, and total expenditures would skyrocket.
-d. The most politically viable option is to go into debt.
+
+d. The most politically viable option is to go into debt. This is because no tax payer has to foot the bill. Nobody likes having less money, and everybody likes having extra services. Basically people want more but don't want to pay  for it. This is why going into debt is popular politically.
 
 .SH "Suppose you are a typical person in the U.S. economy. You pay 4 percent of your income in a state income tax and 15.3 percent of your labor earnings in federal payroll taxes( employer and employee shares combined). You also pay federal income taxes as in Table 3. How much tax of each type do you pay if you earn $20,000 a year? Taking all taxes into account, what are your average and marginal tax rates? What happens to your tax bill and to your average and marginal tax rates if your income rises to $40,000?"
 
@@ -32,8 +39,72 @@ Cant find anything about payroll taxes in the Key Concepts section, so I am goin
     15.3/100*20000=3060
     15/100*20000=3000
     You would pay 6860 in taxes, and your average tax rate would be 0.343. Your marginal tax rate would be 33/100*1
+
 40,000$ a year:
     You would pay 15.3 percent+4 percent+25 percent(25 percent b/c of the progressivity of the tax system in the year 12013). You would pay 17720$ in taxes, and would have an averadge tax rate of 0.443, and would have a marginal tax rate of 0.443/100*1
     
 
+.SH "Some states exclude neccessities, such as food and clothing, from their sales tax. Other states do not. Discuss the merits of this exclusion. Consider both efficiency and equity."
+
+Equity determnes how taxes should be distributed. In this queston, we talk about excluding *all* food and *all* clothing. This means that rich people who are buying expensive food and expensive clothing get off easier. Thusly this is a regressive tax system because the rich pay less taxes. Efficiency is how much somebody has to pay in order to pay the taxes. Some of these include deadwight losses due to taxes, and administrative burdens. This tax would reduce administrative burdens and deadweight loss becuase not taxing something is less expensive than taxing it, and thus efficiency goes up in that regard. The other factor is deadweight loss which occurs because taxes make people want to buy less due to the good being more expensive. These tax exemptions would reduce deadweight loss by not distorting incentives. 
+
+.SH "When someone owns an asset(shuch as a share or stock) that rises in value, he as an "accrued" capital gain. If he sells the asset, he "realizes" the gains that have prevously accrued. Under the U.S. ncome tax system, realized captal gains are taxed, but accrued gains are not."
+
+a. Explain how individuals' behaviour is affected by this rule.
+
+Individuals are encouraged by this tax system to not realize his/her capital gain. This encourages hording and keeping assets solid instead of liquid. 
+
+b. Some economists believe that cuts in captal gains tax rates, expecially temporary ones, can raise tax revenue. How might this be so.
+
+The only way this could be factual is if our current tax on capital gains is to the right of the vertex on the laffer curve. This could be possible because people would be disincentivized to accrue temporary capital gains because they would be a tax liability. 
+
+c. Do you think it is a good rule to tax realized but not accrued capital gains? Why or Why not? 
+
+People don't have the money from their accured captal gains until they realize them. We would basically be taxing people for the stock market going up if we tax accrued gains. I would like you to consider the situation where an investor does the following:
+
+Investor invests 100$ into AMD stock(100$ was his entire life savings) at 10.00$ per share. And the current tax rate is 50% of capital gains
+
+Share price goes up to 15$
+
+Now he has 25$ in taxes because of the accrued capital gains
+
+Amd stock goes down to 7$
+
+He sells
+
+Now he has 45 dollars left
+
+He just lost money in taxes for "gaining" money he never got. And thusly this money is taxing the poor more than it is taxing the rich. 
+
+Wthout taxes he would have lost 30$ and probably would have kept his shares, but instead he lost 55$ and sold.
+
+In conclusion taxing realized gains has its flaws, but taxing accrued gains is significantly worse for the economy and for investors because it adds more punishment for an already punishing and sometimes random stock market
+
+.SH "Suppose that your state raises its sales tax from 5 percent to 6 percent. The state revenue commissioner forcasts a 20% increase in sales tax revenue. Is this plausable? Explain."
+
+The equation for taxes raised = amount of $ taxed*tax rate/100.
+
+Suppose that there are 5,000,000$ taxed in ths state. In a 5% tax rate area, the amount raised would be 250,000. If this were 6 percent, we would raise 300,000. Dividing 250,000 by 300,000/250,000 we get 12/10 which is 2/10+1. Therefore a 20% increase is totally plausable. 
+
+We can also come to this conclusion by looking at the laffer curve
+
+
+.SH "The Tax Reform act of 1986 eliminated the deductibility of interest payments on consumer debt(mostly credit cards and auto loans) but maintained the deductibility of interest payments on mortgages and home equity loans. What do you think happened to the relative amounts of borrowing through consumer debt and home equity debt?"
+
+According to the 10 laws of economics, people respond to incentives. If it is more profitable to accrue debt through home equity debt and mortgages, then people will accrue debt in that manor. 
+
+.SH "Categorize each of the following funding schemes as examples of the benefts principle or the ablity-to-pay principle"
+
+a. Visitors to many national parks pay an enterance fee.
+
+This falls under the benefits principle because the people paying the tax recieved the benefit directly
+
+b. Local property taxes support elementary and secondary schools.
+
+This could fall under both becuase people in local property could send their kids to elementry and secondary schools. That would be an example of the benefits principle.
+The other way of looking at this would be in a vertical equity sense, because people with property are probably able to pay more taxes. 
+
+c. An airport trust fund collects a tax on each plane ticket sold and uses the money to improve air ports and the air traffic control system.
+
+This solidly falls under the benefits principle because people who buy airplane tickets benetit directly from a better airport
 

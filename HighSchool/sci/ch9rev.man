@@ -1,4 +1,6 @@
+.TH "Ch 9 test" 1 "Review" "Ch 9" "Test"
 .SH "A(n) ______ uses the Sun to generate electricity."
+
 photovoltaic cell
 
 .SH "______ makes use of thermal energy inside the earth"
@@ -8,3 +10,124 @@ geothermal plants
 .SH "Energy produced by the rise and fall of ocean levels is a(n) _______"
 
 hydroelectric plant. There is one in nova scotia
+
+
+.SH "______ includes the following: oil, natural gas, and coal."
+
+I can't really tell what they are asking, so I will answer another fossil fuel. That fossil fuel being petrolium.
+
+.SH "Fossil fuels are a(n) ______ because they are being used up faster than they are being made"
+
+non-renewable resource?
+
+.SH "A special caution should be taken in disposing of ________"
+
+High-Level nuclear waste
+
+.SH "Why are fossil fuels considered to be nonrenewable resources?"
+
+"They are resources that cannot be replaced by natural processes as quickly as they are used."
+
+Fossil fuels are nonrenewable because we will eventually run out of them
+
+Consideriing this, the answer is C
+
+.SH "To generate electricity, nuclear power plants produce which of the following"
+
+PLUTONIUM™®®®® BROUGHT TO YOU BY PLUTONIIUM COOOOOORP! He though he was drinking regular tea, but he was drinking PLUTONIUM™®™®™®™®™®™®®®™®
+
+Jokes aside, nuclear power plants generate electricity using nuclear reactions to heat up water into steam which turns a turbine, so they produce steam.
+
+This means the answer is A
+
+.SH "What is a major disadvantage of using nuclear fusion reactors?"
+
+With temperatures of over a million degrees CELSIUS, it is highly unlikly that we would ever be able to harness this energy without using more energy than the fusion generates
+
+Answer is C
+
+.SH "How are spent nuclear fuel rods usually disposed of?"
+
+They are usually placed underwater in a tightly sealed pool. The water absorbs the nuclear waste
+
+Answer is B
+
+.SH "How much energy in the United States comes from burning petrolium, natural gas, and coal?"
+
+How is somebody supposed to remeber this
+
+A. 85%
+
+.SH "Solar cells would be more practical to use if they were which of the following"
+
+If the price of anything is reduced, it becomes more practical to use.
+
+.SH "Which energy source uses water that is heated naturally by Earth's internal heat?"
+
+D. Geothermal energy
+
+.SH "What do hydrocarbons react wth when fossil fuels are burned?"
+
+"When fossil fuels are burned, carbon and hydrogen atoms combine with oxygen molecules n the air to form carbon dioxide and water molecules"
+
+This means that they combine with oxygen, so the answer is C
+
+.SH "What of the following is NOT a source of nuclear waste?"
+
+THis is a pretty bad question, the answers could be
+A. Products of fission reactors. A product of fission reactor is steam, and another is electricity. Neither of which is radioactive
+B. Materials with short half-lives. Thats just not true, so we can get rid of B. Calefornium is an example
+C. Some medical and industrial products. What, like a scalpel? Some certain pills that are not radioactive? WHAT DO YOU MEAN!
+D. Products of coal-burning power plants. Like electrcity? water? carbon dioxide?????
+
+Im confused
+
+Basically all of those are true. 
+
+.SH "Whch of the following is the source of almost all of Earth's energy resources?"
+
+According to the graph thingy in the first section, petrolium is the most used resource for generating power.
+
+Petrolium is made from plankton and algea that died a long time ago
+
+The answer is probably fossil fuels, so D
+
+.SH "Copy and complete the table below describing possible effects of changes in the normal operation of a nuclear reactor"
+
+Cause: Cooling water is released hot.                                   Effect: The cooled water is sent into the reactor still hot
+Cause: The control rods are removed.                                    Effect: You can no longer control the chain reaction of u-235
+Cause: The control rods are lifted out accidentally Or the pumps break. Effect: The reactor core overheats and meltdown occurs.
+
+.SH "Copy and complete this concept map"
+
+Bubbles filled in on left side: non-renewable, fossil fuels to thermal.
+
+Bubbles filled in on right side: Which are able to be used over and over again, geothermal to steam, hydroelectricity water current to to electricity
+
+.SH "Infer why alternative energy resources aren't more widely used.
+
+They are more expensive and lesse effective.
+
+Also green cars are not green, they are just powered by coal and petrolium
+
+.SH "Infer whether fossil fuels should be conserved if renewable energy sources are being developed."
+
+A corrective tax or tradable permits to mine fossil fuels should be put because of the negative externalities set in place by consumption of oil and pollution.
+
+.SH "Infer Suppose new reserves of fossil fuels were found and a way to burn these was developed that did not release pollutants and carbon dioxide into the atmosphere. Should fossil fuels still be conserved? Explain"
+
+This answer is the antithisis to my last one. I have changed my mind.
+No, If we conserve fossil fuels, we just kick the problem of running out down the road. We will run out eventually, why not now?
+
+.SH "Explan why coal is considered a nonrenewable energy source, but biomass, such as wood, is considered a renewable energy source."
+
+Because coal is used more than it is produced, meaning that we will eventually run out. We can plant more trees, and get wood that way in a timely manor
+
+.SH "Convert Units Crude oil is sold on the world market in units called barrels. A barell of crude oil contans 42 gallons. If 1 gallon is 3.8 liters, how many liters are there in a barell of crude oil?"
+
+42*3.8=159.6
+
+
+.SH "Last question too large to write"
+
+(6.78*10^7+6.13*10^7/1.02*10^9)*100~=12.6568627451
