@@ -22,3 +22,63 @@ What do you mean by bendng, none of the terms reference it
 
 Interference
 
+.SH "What is the relatonship amoung amplitude, crest and trough?"
+
+Amplitude is the distance from the crest or trough of the wave to the center as defined by its nodes
+
+"The transverse wave in Figure 8 has alternating hgh points called crests, and low points called troughs."
+
+The amplitude is the distance from the crest to the trough divided by two. Or |C-T|=a
+
+
+.SH "What does frequency measure?"
+
+The frequency of a wave is the number of wavelengths that pass a fixed point each second. 
+
+.SH "What does a mechanical wave always travel through?"
+
+In a medium aka matter
+
+.SH "Which of the following do waves carry?"
+
+"Waves carry energy without transporting matter."
+
+b. Energy
+
+.SH "What is the formula for calculating wave speed?"
+
+v=fλ
+
+A
+
+.SH "When a compressional wave travels through a medium, which way does matter in the medium move?"
+
+back and forth along the same direction that the wave travels.
+
+so d
+
+.SH "12. What is the highest point of a transverse wave called?"
+
+A. Crest
+
+.SH "13. If the fequency of the waves produced by a vibrating object increases, how does the wavelength of the waves produced change"
+
+d
+
+It gets smaller
+
+.SH "If the amplitude of a wave changes, which of the following changes?"
+
+A. "Amplitude is related to the energy carried by a wave"
+
+.SH "Which term describes the bending of a wave around an object?"
+
+C
+
+.SH "what is equal to the angle of reflection"
+
+D. The angle of incidence
+
+.SH "Based on the data in the table above, which of the following would be the speed of sound in air at 30C?"
+
+D. It goes up by six each time

@@ -1,0 +1,93 @@
+.TH "econ 13" 1 "six problems" "graphs included" "idk"
+.SH "1. This chapter discusses many types of costs: opportunity cost, total cost, fixed cost, variable cost, average total cost, and margnal cost. Fill n the type of cost that best completes each sentence:
+
+a. opportunty cost
+b. Averadge total cost as shown in one of the graphs
+c. Fixed cost
+d. Fixed cost
+e. Total cost
+f. marginal cost
+
+.SH "Your aunt is thinking about opening a hardware store. She estimates that it would cost $500,000 per year to rent the location and buy the stock. In addtion she would have to quit her $50,000 per year job as an accountant."
+
+a. Define opportunity cost: Oppourtunity cost is all of the things you need to give up in order to achieve a good or service.
+
+In this case an opportunity cost would be her 50k salary as an accountant
+
+b. What is your aunt's opportunity cost of runnng a hardware store for a year? If your aunt think she can sell $510,000 worth of merch in a year, should she open the store? Explain.
+
+If she gave up her job, she would have a 500k in recurring costs and 510k in total revenues. Profit is total revenue - total costs, so she would now make 10k total. 
+
+Unless she has some sort of desire to sell people hardware, she should not open the buisness because her opportunity costs of accounting are low compared to the opportunity costs of selling hardware
+
+.SH "A commercial fisherman notices the following relationship between hours spent fishing and the quantitiy of fish caught"
+
+a. What is the marginal product of each hour spent fishing?
+
+"the increase in output that arises from an additional unit of input"
+
+so
+
+.TS 
+allbox tab(:) ;
+c c c .
+Hours:Quantity of Fish(lbs):Marginal Product
+0:0:0
+1:10:10
+2:18:8
+3:24:6
+4:28:4
+5:30:2
+.TE
+
+b.  Use these data to graph the fisherman's production function. Explain its shape.
+
+First Graph
+
+c. The fisherman has a fixed cost of $10 (his pole). The opportunity cost of his time is $5 per hour. Graph the fisherman's total cost curve. Explain its shape
+
+Second graph
+
+.SH "Nimbus, Inc., makes brooms and then sells them door-to-door. Here is the relationshp between the number of workers and Nimbus's output in a given day:"
+
+a. Fill in the column of marginal products. What pattern do you see? How might you explain it? 
+
+filled in in d
+
+We see that adding more workers increases marginal product until a certain point. That point being the jump from 3 to 4 workers. This is because of the law of diminishing returns. Eventually the workspace becomes too crowded, and each employee becomes less effective overall due to overcrowding
+
+b. A worker costs $100 a day, and the firm has fixed costs of $200. Use this information to fill in the column for total cost.
+
+filled in in d
+
+c. Fill in the column for average total cost(recall that ATC=TC/Q) What pattern do you see?
+
+filled in in d
+I really do not see a pattern, it seems to be big then small randomly
+
+
+d. Now fill in the column for marginal cost. (Recall that MC=ΔTC/ΔQ). What pattern do you see?
+
+.TS 
+allbox tab(:) ;
+c c c c c c .
+Workers:Output:Marginal Product:Total Cost:ATC:MC
+0:0:0:2(00):200/0:na
+1:20:20:2+1:15:5
+2:50:30:2+2:8:10/3
+3:90:40:2+3:5.5555:5/2
+4:120:30:2+4:5:10/3
+5:140:20:2+5:5:5
+6:150:10:2+6:5.33333:5
+7:155:5:2+7:5.80:20
+.TE
+
+The total cost only ever increases by 100 because thats the only recurring cost. It also shows that as product produced decreases with each new row, the mc gets higher
+
+e. Compare the column for marginal product and the column for marginal cost. Explain the relationship. 
+
+Marginal product is the Δq variable.
+
+f. Compare the column for average total cost and the column for marginal cost. Explain the relationship.
+
+ATC and MC both factor into account total cost, MC just factors in change in total cost.
