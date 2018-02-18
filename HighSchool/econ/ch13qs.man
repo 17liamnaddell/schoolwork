@@ -47,6 +47,7 @@ First Graph
 c. The fisherman has a fixed cost of $10 (his pole). The opportunity cost of his time is $5 per hour. Graph the fisherman's total cost curve. Explain its shape
 
 Second graph
+This graph is here: https://www.desmos.com/calculator/pnwch1h89i
 
 .SH "Nimbus, Inc., makes brooms and then sells them door-to-door. Here is the relationshp between the number of workers and Nimbus's output in a given day:"
 
@@ -91,3 +92,58 @@ Marginal product is the Δq variable.
 f. Compare the column for average total cost and the column for marginal cost. Explain the relationship.
 
 ATC and MC both factor into account total cost, MC just factors in change in total cost.
+
+.SH "You are the chief financial officer for a firm that sells digital music players. Your firm has the following average-total-cost schedule:"
+
+.TS
+allbox tab(:) ;
+c c .
+Quantity:Average Total Cost
+600 players:$300
+601:301
+.TE
+
+Your current level of production is 600 devices, all of which have been sold. Someone calls, desperate to buy one of your music players. The calller offers you $550 for it. Should you accept the offer? Why or why not?
+
+Since atc is tc/q, we can multiply 601 by 301 to get total cost for 601 units. And doing the same for 600, and subtracting, we get 901, which means that it would cost 901 to make it, and 550 would be a terrable idea
+.SH "Consider the following cost information for a pizzeria:"
+
+.TS 
+allbox tab(:) ;
+c c c .
+Quantty:Total Cost:Variable Cost
+0 dozen pizzas:300:0
+1:350:50
+2:390:90
+3:420:120
+4:450:150
+5:490:190
+6:540:240
+.TE
+
+a. What is the pizzeria's fixed cost?
+
+ΔTC-ΔVC
+In the first example, that would be 300(and second, and third ...)
+
+b. Construct a table in which you calculate the marginal cost per dozen pizzas using the information on total cost. Also, calculate the margnal cost per dozen pizzas using the informatoin on variable cost. What is the relationship between these sets of numbers? Comment.
+
+Marginal cost is defined as the increase in total cost that arises from an extra unit of producton. 
+
+MC=ΔTC/ΔQ
+
+As you can see, marginal cost has total cost built into the formula, so how do we calculate it using "the information on variable cost"?
+
+Heres is the table of the first set of numbers
+
+.TS 
+allbox tab(:) ;
+c c c.
+Increase in TC:Increase in quantity: MC
+50:1:50
+40:1:40
+30:1:30
+30:1:30
+40:1:40
+50:1:50
+.TE
