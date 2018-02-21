@@ -13,7 +13,7 @@ immigrants steal american jobs
     This is debunked in `wsjlabour`
 Drains govt funds
 Ruins the education system
-    Partially debunked in `../costoneducationsystem`
+    debunked in `../costoneducationsystem`
 what is cato
     "The Cato Institute is a public policy research organization — a think tank — dedicated to the principles of individual liberty, limited government, free markets and peace. Its scholars and analysts conduct independent, nonpartisan research on a wide range of policy issues.
 ```
