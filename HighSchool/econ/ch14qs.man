@@ -1,0 +1,23 @@
+.SH "1 Many small boats are made of fiberglass, which is derived from crude oil. Suppose that the price of oil rises."
+
+a. Using diagrams, show what happens to the cost curves of an individual boat-making firm and to the market supply curve
+
+By cost curve, I assume you mean graph out marginal cost, and atc
+
+graphed in /Users/liam/text3394.png
+
+b. What happens to the profits of boat makers in the short run? What happens to the number of boat makers in the long run?
+
+Assuming that the market is competitive, prices will go up, but boat makers will not be able to enjoy higher prices because of the higher costs of production. This means that less people will buy boats, and quantity will decrease. Because ATC is TC/Q, atc will be higher, this means that the firm makes less money. For less efficient firms, the lowest point of the ATC will be over the price, and thus the firm should eliminate its sunken costs, and will probably leave. 
+
+.SH "2 You go out to the best restaurant in town and order a lobster dinner for $40. After eating half the lobster, you realize that you are quite full. Your date wants you to finish your dinner because you can't take it home and because "you've already paid for it." What should you do? Relate your answer to the material in this chapter."
+
+The crab is a sunken cost that cannot be recovered, and thus we should not cry over spilt milk.
+
+.SH "3 Bob's lawn-mowing service is a profit-maximizing, competitive firm. Bob mows lawns for 27$ each. His total cost each day is $280, of which $30 is a fixed cost. He mows 10 lawns a day. What can you say about Bob's short-run decision regarding shutdown and his long-run decision regarding exit?"
+
+He only makes 270$ per day, so each day he would lose 10$. He should stop mowing lawns in the short term, as he cannot raise prices due to this being a competitive market. And in the long term, he should probably exit the market due to being unprofitable. 
+
+.SH "4"
+.SH "5"
+.SH "6"

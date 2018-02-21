@@ -1,3 +1,5 @@
+.TH "Physical science" 1 "chptr 10" "two sections" "ps"
+
 .SH "1. Compare and contrast reflection and refraction"
 
 "Refraction occurs when a wave changes direction as it moves from one medium to another"

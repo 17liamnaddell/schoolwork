@@ -64,7 +64,7 @@ filled in in d
 c. Fill in the column for average total cost(recall that ATC=TC/Q) What pattern do you see?
 
 filled in in d
-I really do not see a pattern, it seems to be big then small randomly
+The graph of the total cost column is U shaped
 
 
 d. Now fill in the column for marginal cost. (Recall that MC=ΔTC/ΔQ). What pattern do you see?
@@ -79,7 +79,7 @@ Workers:Output:Marginal Product:Total Cost:ATC:MC
 3:90:40:2+3:5.5555:5/2
 4:120:30:2+4:5:10/3
 5:140:20:2+5:5:5
-6:150:10:2+6:5.33333:5
+6:150:10:2+6:5.33333:10
 7:155:5:2+7:5.80:20
 .TE
 

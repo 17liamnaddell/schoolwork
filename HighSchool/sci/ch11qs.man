@@ -1,0 +1,14 @@
+.SH "1 The _____ is filled with fluid and contains tiny hair that vibrate"
+cochlea
+.SH "2 ______ is the study of sound."
+acoustics
+.SH "3 A change in pitch or wave frequency due to a moving wave source is called ______"
+Doppler effect
+.SH "4 _____ is a combination of sounds and ptches that follows a specified pattern."
+music
+.SH "5 Differences among sounds of the same pitch and loudness are described as _____"
+Sound quality
+.SH "6 _____ is how humans percieve the intensity of sound."
+loudness
+.SH "7 ______ s a scale for sound intensity."
+decibel 

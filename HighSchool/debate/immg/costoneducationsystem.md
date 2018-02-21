@@ -26,3 +26,7 @@ therefore 3.57 million attend as illegal immigrants
 
 28,560 million
 (28.560 billion)
+
+https://www.nationalreview.com/2015/12/top-10-wasteful-government-expenses/
+
+The GAO reports that five federal agencies alone spent $3.1 billion on workers placed on administrative leave in a two-year timespan. A lot of that cash — $775 million, to be exact — went to public employees banned from their desks for more than a month. (“Primarily,” Lankford’s waste book finds, “workers are placed on leave because they are under investigation for misconduct.”)
