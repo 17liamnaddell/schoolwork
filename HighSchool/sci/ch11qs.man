@@ -12,3 +12,44 @@ Sound quality
 loudness
 .SH "7 ______ s a scale for sound intensity."
 decibel 
+.SH "For a sound with a low pitch, what else is always low?
+
+Frequency 
+
+.SH "Sound intensity decreases when which of the following decreases?"
+
+d. Amplitude
+
+.SH "When specific pitches and sounds are put together in a pattern, what are they called?"
+
+B. Music
+
+.SH "Sound can travel through all but which of the following?"
+
+d. Empty space
+
+.SH "What is the term for variations in the loudness of sound caused by wave interference?"
+
+A. Beats
+
+.SH "What does the outer ear do to sound waves?"
+
+C. Gather them
+
+.SH "Which of the following occurs when a sound source moves away from you?"
+
+A.
+
+.SH "Sounds with the same pitch and loudness traveling in the same medium may differ in which of these properties?
+
+C. Quality
+
+.SH "What part of a musical instrument amplifies sound waves?"
+
+A. Resonator
+
+.SH "What is the name of the method used to find objects that are underwater?"
+
+XTREME ULTRASOOOONIC BAAAATHH jk
+
+Its c, sonar
