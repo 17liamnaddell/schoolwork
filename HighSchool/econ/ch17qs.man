@@ -1,0 +1,24 @@
+.SH "question for review 1"
+
+When oligopolies for cartels, they act as a monopoly, and monopolies try to set a price over the marginal cost, and they try and set a profit-maximizing level of output that is below the sum of consumer and producer surplus according to the book
+
+.SH "question for review 2"
+
+Often oligopolies try to collude to set prices that are good for the companies, but they often face the prisoner's dillema in which both parties have to trust each other in order to come out with the best outcome. If both try to screw over each other, then they will end up with terrible prices. This is exactly like jack and jill in chapter 17-1
+
+.SH "question for review 3"
+
+Oligopolies are price setters and not price-takers, so when they sell more goods, they make less marginal revenue than the price of the good. This leads to two effects:
+
+"The output effect: Because price is above marginal cost, selling one more gallon of water at the going price will raise profit."
+"The price effect: Raising production will increase the total amount sold, which will lower the price of water and lower the profit on all the other gallons sold."
+
+Sellers will sell goods until the price effect is greater than the output effect
+
+.SH "question for review 4"
+A cartel is when a group of sellers decide to agree on price and quantity, and is illegal in the us according to antitrust laws
+The more firms there are in an oligopoly, the more it resembles perfect competition, and the harder it is to form a cartel. This is because of the prisoner's dillema. The prisoners dillema is when prople play the dominant strategy in game theory. It always ends up in a inperfect situation because of trust or lack thereof.
+
+.SH "question for review 5"
+.SH "question for review 6"
+.SH "question for review 7"

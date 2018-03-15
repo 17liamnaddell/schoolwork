@@ -13,7 +13,7 @@ Assuming that the market is competitive, prices will go up, but boat makers will
 
 .SH "2 You go out to the best restaurant in town and order a lobster dinner for $40. After eating half the lobster, you realize that you are quite full. Your date wants you to finish your dinner because you can't take it home and because "you've already paid for it." What should you do? Relate your answer to the material in this chapter."
 
-The crab is a sunken cost that cannot be recovered, and thus we should not cry over spilt milk.
+The crab is a sunken cost that cannot be recovered, and thus we should not cry over spilt milk.  Sunken costs are costs that cannot be recovered because we already paid them. We have already gotten all the value we can out of the crab, so eating more does not do anything but make us sick. 
 
 .SH "3 Bob's lawn-mowing service is a profit-maximizing, competitive firm. Bob mows lawns for 27$ each. His total cost each day is $280, of which $30 is a fixed cost. He mows 10 lawns a day. What can you say about Bob's short-run decision regarding shutdown and his long-run decision regarding exit?"
 
@@ -71,8 +71,11 @@ Quantity : Total Fixed Costs : Total Variable Costs
 .TE
 
 a. Calculate the company's average fixed costs, average variable costs, average total costs, and marginal costs at each level of production. 
+
 b. The price of a case of ball bearings is $50. Seeing that he can't make a profit, the chief executive officer decides to shut down operations. What is the firm's profit/loss? Was this a wise decision? Explain.
+
 c. Vaguely remembering his introductory economics course, the chief financial officer tells the CEO it is better to produce 1 case of ball bearings, because marginal revenue equals marginal cost at that quantity. What is the firm's profit/loss at that level of production? Whas that the best decision? Explain.
+
 
 .SH "7. A firm in a competitive market receives $500 in total revenue and has marginal revenue of $10. What is the average revenue, and how many units were sold"
 

@@ -1,0 +1,67 @@
+.TH "Chapter 13 science" 1 "Chapter" "13" "Science"
+.SH "1 What type of light does heating a filament until it glows produce?"
+
+incandescent light
+
+.SH "2 What process would you use to produce a complete three-dimensional image of an object?"
+
+holography
+
+.SH "3 How would you describe an object that you can see through?"
+
+Translucent is lets some light through
+Transparent lets all light through
+I assume Transparent
+
+.SH "4 What process makes it possible for optical fibers to transmit telephone conversations over long distances?"
+
+Total internal reflection
+
+.SH "5 What is a false image of a distant object?"
+
+mirage
+
+.SH "6 What type of light has light waves that vibrate in only one direction?"
+
+Coherent light, its used in lazors
+
+.SH "7 Which word describes materials that absorb or reflect all light?"
+
+b. opaque
+
+.SH "8 What is the term for the property of a material that indicates how much light slows down when traveling in the material?"
+
+C. Index of refraction
+
+.SH "9  Which of the following explains why a prism separates white light into the colors of the rainbow?"
+
+D. Refraction
+
+.SH "10 What do you see when notng the color of an object?"
+
+A. The light it reflects
+
+.SH "11 What do the phosphors inside fluorescent bulbs absorb to create a glow?"
+
+B. Ultraviolat radioation
+
+.SH "12 What term describes objects that allow some light, but not all light to pass through them"
+
+A. Translucent
+
+.SH "13. Which light waves are bent most when passing through a prism?
+
+C. Blue waves b/c red waves bend the least according to the book
+
+.SH "14. Which type of cells in your eyes allows you to see the color violet?"
+
+C. Blue cones
+
+.SH "15. What color of light is produced when the three primary colors of light are combined in equal amounts?"
+
+A. Black
+
+.SH "16. Which of the following terms best describes laser light?"
+
+B. Coherent because all of the waves are the same
+

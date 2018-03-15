@@ -1,0 +1,96 @@
+.TH "economics ch 16" 1 "16" "ECON" "ch"
+.SH "Amoung monopoly, oligopoly, monopolistic competition, and perfect competition, how would you classify the markets for each of the following drinks?"
+
+a. tap water
+
+Tap water is a monopoly because it is a public utility owned by one public agency 
+
+b. bottled water
+
+Bottled water is a bit different because there are a lot of companies, but most of them are owned by pepsi or coke, so an oligopoly. 
+
+c. cola
+
+See answer b, there are basically only two companies, pepsi and coke(also rc-service I mean cola)
+
+d. beer
+
+Probably monopolistic competition because everybody makes their own sthick, so its all different, but they also compete, so monopolistic competition 
+
+.SH "Classify the following markets as perfectly competitive, monopolistic, or monopolistically competitive, and explain your answers."
+
+a. wooden no 2 pencils
+
+Perfect competition because all of the products are the same, there is no brand recognition, and many companies make pencils
+
+b. copper
+
+According to https://investingnews.com/daily/resource-investing/base-metals-investing/copper-investing/top-10-copper-producing-companies-2/ there are 10 competitve that make a lot of copper, thusly it is not a monopoly, and its not an oligopoly because all of the products are the same (and thus does not have close substitutes). Therefore its perfect competition
+
+c. local electricity service
+
+There are not many local electricity services so it is probably a monopoly because their goods are pretty close
+
+d. peanut budder
+
+oligopoly because only a few companies make it, and its not exactly all the same
+
+e. lipstick
+
+Pretty much all lipstck is the same, and many companies make it, so probably perfect competition
+
+.SH "For each of the following characteristics, say whether it describes a perfectly competitive firm, a monopolistically competitive firm, both, or neither."
+
+a. sells a product differentiated from that of its competitors
+
+monopoly, or monopolistically competitive firm, so mcf
+
+b. has marginal revenue less than price
+
+Monopolistically competitive because of fig 2
+This could also be a monopoly, so none
+
+c. earns economic profit in the long run
+
+Monopoly probably, so none
+
+d. produces at the minimum of average total cost in the long run
+
+Competitve firm
+
+e. equates marginal revenue and marginal cost
+
+both
+
+f. charges a price above marginal cost
+
+Monopoly and Monopolistic competition, so MC
+
+.SH "4. For each of the following characteristics, say whether it describes a monoply firm, a monopolistically competitive firm, both, or neither."
+
+a. faces a downward sloping demand curve
+
+Monopolistic compettion
+
+b. has marginal revenue less than price
+
+According to figure 4, MC would be a valid answer
+
+c. faces the entry of new firms selling similar products
+
+Not a monopoly, so MC
+
+d. earns economic profit in the long run
+
+Monopoly
+
+e. equates marginal revenue and marginal cost
+
+Perfectly competitive because of fig 4
+SO none
+
+f. produces the socially efficient quantity of output
+
+Perfect competition according to 336 so neither
+
+
