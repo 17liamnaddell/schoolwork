@@ -1,0 +1,66 @@
+.TH "Ch 12 sci" 1 "Ch 12" "Chapter 12" "Science"
+.SH "1 _____ are the type of electromagnetic waves often used for communication"
+
+Radio
+
+.SH "2 A remote control uses _____ to communicate with a TV set"
+
+infrared
+
+.SH "3 Electromagnetic waves carry ____"
+
+
+radiant energy
+
+.SH "4 If you stay outsie for too long, your skin might be burned by exposure to ____ from the Sun"
+
+ultraviolat waves
+
+.SH "5 A radio station broadcasts radio waves called _____ that have the specific frequency assigned to the station."
+
+carrier wave
+
+.SH "6 The image on a tv screen is produced by a ____"
+
+CRT
+
+.SH "7 Transverse waves that are produced by vibrating electric charges and consist of vibrating electric and magnetic fields are ____"
+
+Electromagnetic waves
+
+.SH "8 Which type of electromagnetic wave is the most energetic?"
+
+A. Gamma rays
+
+.SH "9 Electromagnetic waves can behave like what type of particle?"
+
+C. Photon
+
+.SH "10 Which type of electromagnetic wave enables skin cells to produce vitamin D? "
+
+B. Ultraviolate waves
+
+.SH "11 Which of the following describes X rays?"
+
+A. SLHF
+
+.SH "12 Which of the following is changing in an AM radio wave?"
+
+C. Amplitude
+
+.SH "13 Which type of electromagnetic wave has wavelengths greater than about 1 mm?"
+
+B. Radio waves
+
+.SH "14 What is the name of the ability of some materials to absorb ultraviolet light and re-emit it as visable light?"
+
+D. Fluorescence
+
+
+.SH "15 Which of these colors of visible light has the shortest wavelength?"
+
+a. Blue
+
+.SH "16 Which type of electromagnetic wave has wavelengths slightly longer than humans can see?"
+
+c. Infrared waves

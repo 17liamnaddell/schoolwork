@@ -1,0 +1,20 @@
+.SH "A flat, smooth surface that reflects light and forms an image is a(n) ____"
+
+plane mirror
+
+.SH "A(n) _______ uses two convex lenses lenses to magnify small,close objects"
+
+refracting telescope
+
+.SH "Every light ray that ravels paralell to the optical axis before hitting a concave mirror is reflected such that it passes through the ______"
+
+Focal point
+
+.SH "A(n) ______ is thicker in the middle than at the edges"
+
+convex lens
+
+.SH "The inner lining of the eye that converts light images into electrical signals is called the _____."
+
+retina
+

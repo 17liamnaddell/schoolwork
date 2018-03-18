@@ -1,0 +1,64 @@
+.TH "econ 15" 1 "economics" "6 questions" "15 qs"
+.SH "3. Johnny Rockabilly has just finished recording his latest CD."
+
+a. Find total revenue for quantity equal to 10,000, 20,000, and so on. What is the marginal revenue for each 10,000 increase in the quantity sold?
+
+
+24*10*1000=240000
+22*20*1000=440000
+20*30*1000=600000
+18*40*1000=720000
+16*50*1000=800000
+14*60*1000=840000
+
+b. What quantity of CDs would maximize profit? What would the price be? What would the profit be?
+
+840000 would maximize profit, and the price would be 14 buckeroonies
+
+c. If you were Johnny's agent, what recording fee would you advise Johnny to demand from the record company? why?
+
+They should charge 5 dollars because that fits inside the total revenue per cd, and its the variable cost. They would make 14\cdot60\cdot1000\cdot\\frac{20}{100}=168000
+
+.SH "4. A company is considering building a bridge across a river."
+
+a. If the company were to build, what would be its profit-maximizing price? Would that be the efficient level of output? Why or why not?
+
+4 dollars*400 thousand would be 1,600,000 dollars. Anything else does not make as money
+
+b. If the company is interested in maximizing profit, should it buld the bridge? What would be its profit or loss?
+
+It should not build the bridge b/c 2,000,000 is greater than 1,600,000, so it would have a loss of 400,000
+
+c. If the govt were to build the bridge, what price should it charge?
+
+Assuming the govt want to have as small burden on the tax payer as possible, they should charge four dollars
+Assuming the govt will put all of the of the burden on the tax payer, they would charge zero dollars, or one dollar
+Assuming the govt wants to screw over everyone, they would charge eight dollars
+
+d. Should the government build the bridge? Explain.
+
+I think the government should build the bridge if it is neccisary, if it isn't neccisary, it will be an unneccsisary burden to taxpayers. Assuming that people will use the bridge, I would say its a good idea. If people don't need it, don't build it
+
+.SH "5. Larry, Curly, and Moe run the only saloon in town."
+
+I don't know :(
+
+.SH "8. You live in a town with 300 adults and 200 children, and you are thinking about putting on a play"
+
+a. To maximize profit, what price would you charge for an adult ticket? For a child's ticket? How much profit do you make?
+
+7 For adult, 4 for child=2900
+Subtract 2000 in fixed costs
+
+b. THe city council passes a law prohibiting you from charging different prices to different customers. What price do you set for a ticket now? How much profit do you make?
+
+I would charge 7 dollars because then we get 2100
+Subtract 2000 in fixed costs
+
+c. Who is worse off because of the law prohibiting price discrimination? Who is better off? (If you can, quantify the changes in welfare)
+
+Well, no kids would come, so they would be worse off, Im worse off by 800 bucks, and the adults stay the same
+
+d. If the fixed cost of the play were $2500 rather than 2000, how would your answers to parts a,b,c change?
+
+If it were 2500, I would still put on the play as in part a, but in part b, I wouldn't put it on b/c I would lose 400 bucks. And for c, I would be even more worser off, and the adults would also be worse off because they would now have no more play

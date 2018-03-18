@@ -1,3 +1,4 @@
+.TH "science ch 11" 1 "Two Parts" "Part 1 and 2" "ch 11"
 .SH "1 The _____ is filled with fluid and contains tiny hair that vibrate"
 cochlea
 .SH "2 ______ is the study of sound."
