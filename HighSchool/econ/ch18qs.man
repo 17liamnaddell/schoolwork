@@ -1,5 +1,27 @@
+.TH "Econ chapter 18" 1 "Econ" "chapter" "18"
+
 .SH "question for review 1"
+
+A firm's production function is the relationship between the quantity of inputs used to make a good and the quantity of output of that good, and the marginal product of labor is the increase in the amount of output from an additional unit of labor. Since labour is an input of the production function, if labour became more expensive the inputs of the production function would be bigger
+
+Marginal product is the increased amount of output from another unit of input, since marginal product of labor is a specific part of the marginal product, it's price rising would result in the same price rise from marginal product
+
+demand for labour is how much labor a buisness wants to hire. If the marginal product is lower than the cost of hiring another worker, the buisness will not hire a worker, but if the marginal product is very high, demand for labour would be high
+
 .SH "question for review 2"
+
+Black plague - Less workers, higher price per worker  
+Company starts losing customers, so they stop getting as much money, and their marginal product decreases and thus they lay off workerz
+
 .SH "question for review 3"
+
+Black plague - Workers are dead
+Revealed that working for your company is terrible - Nobody wants to work for konami because of stories like this: https://kotaku.com/report-konami-is-treating-its-staff-like-prisoners-1721700073
+
 .SH "question for review 4"
+
+"Any event that changes the supply or demand for labor must change the equilibrium wage and the value of the marginal product by the same amount because these must always be equal." This is because employers hire until the marginal revenue equals the wage. 
+
 .SH "question for review 5"
+
+Assuming that the immigrants were functionally the same as americans, wages would go down due to competition, and because people could hire more workers, they could also use more equipment, so rents would go up

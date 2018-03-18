@@ -1,3 +1,4 @@
+.TH "Econ chapter 17" 1 "econ" "chapter" 17
 .SH "question for review 1"
 
 When oligopolies for cartels, they act as a monopoly, and monopolies try to set a price over the marginal cost, and they try and set a profit-maximizing level of output that is below the sum of consumer and producer surplus according to the book
@@ -20,5 +21,13 @@ A cartel is when a group of sellers decide to agree on price and quantity, and i
 The more firms there are in an oligopoly, the more it resembles perfect competition, and the harder it is to form a cartel. This is because of the prisoner's dillema. The prisoners dillema is when prople play the dominant strategy in game theory. It always ends up in a inperfect situation because of trust or lack thereof.
 
 .SH "question for review 5"
+
+The prisoner's dillema is when two prisoners (named bonnie and clyde) are given the following situation: One police officer tells bonnie that if she testifies against clide, she will get zero days in prison, and clide will get sixteen, and another officer tells clyde that he testifies against bonnie than she gets sixteen and he gets zero. If they both testify, both get eight years, and if neither testifies, they get 1 year. If bonnie testifies but clyde does not, bonnie benefits, and if clide testifies, then clyde benefits. So if you are clyde, and you distrust bonnie, then you will testify against her, and bonnie will do the same. They would both get eight years. If neither testifies, then they would only get 1 year, but the incentive to screw over the other person is greater than the force of trust between them. This applies to oligopolies because the incentive to screw over your partners in a cartel would get you money, and if you distrust other members, or want to make a quick buck, you will screw over other members. 
+
 .SH "question for review 6"
+
+A game where one person can screw over another person, but the other person would not know until it happened
+
 .SH "question for review 7"
+
+They prevent companies from talking to each other about price or quantity, thus trying to get ppl to not form cartels
