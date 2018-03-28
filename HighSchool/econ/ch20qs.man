@@ -1,0 +1,18 @@
+.TH "Chapter 20 econ questions" 1 "chapter" 20 "econ questions"
+
+.SH "1." 
+12
+.SH "2."
+Their share of the pie has decreased, and now over the past thirty years it has started to increase slightly
+.SH "3." 
+Single mothers
+.SH "4."
+
+Assuming transitory and life cycle variations in income are variations of income that go with a season or come regularly. It makes gauging the amount of inequality very difficult because you have to either not count that person's temporary inequality, or average the inequality out on a per-person basis which is difficult to estimate
+.SH "5." 
+A utilitarian would want as little income inequality as they could, a liberal wants to get rid of the worst inequality, and a liberatarian does not care.
+.SH "6." 
+The pros are that the gov't does not have to know what it's citizens need, the cons are that people could spend the money on drugs
+.SH "7."
+If we gave everyone in america one million dollars, not many would want to work because they all. We could reduce this incentive by not giving people enough to live on, or just giving them a certain type of good. The disadvantages are not being able to get as much support to people if we go with not supporting people as much, and the disadvantages of giving people a certain type of good are that the government has to know what it's citizens need
+

@@ -21,7 +21,7 @@ retina
 
 .SH "Which of the following best describes image formation by a plane mirror?"
 
-
+D
 
 .SH "Which mirror can form an enlarged image"
 

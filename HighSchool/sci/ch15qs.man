@@ -1,0 +1,73 @@
+.TH "Physical science" 1 "Chapter 15" "17 questions" "physical science
+.SH "1 Substances formed from atoms of two or more elements are called ______"
+
+Compound
+
+.SH "2 A(n) ______ is a heterogeneous mixture in which visable particles settle."
+
+suspension
+
+.SH "3 Freeing, boiling, and evaporation are all examples of _____"
+
+physical change
+
+.SH "4 According to the _______, matter is neither created nor destroyed during a chemical change"
+
+law of conservation of ass
+
+.SH "5 A mixture in which different materials are easily identified is ______."
+
+hetrogeneous mixture
+
+.SH "6 Compounds are made from the atoms of two ore more ______."
+
+elements
+
+.SH "7 Distillation is a process that can separate two liquids using _______"
+
+evaporation/phyical change
+
+.SH "8 Bending a copper wire is an example of what type of property?"
+
+B. Physical
+
+.SH "9 Which of the following is NOT an element? "
+
+a. WATER DRINK IT up
+
+.SH "10 Which of the following is an example of a chemical change?"
+
+b. Burning 
+
+.SH "11 What type of substince is gelatin?"
+
+Colloid
+
+.SH "12 A visable sunbeam is an example of which of the following?"
+
+Tyndall effect
+
+.SH "13 You start to eat some potato chips from an open bag you found in your locker and notice that they taste unpleasant. What do you think might cause this unpleaant taste?"
+
+Chemical change
+
+.SH "14 How would you clasify the color of a rose?"
+
+physical property
+
+.SH "15 How would you describe the process of evaporating water from seawater?"
+
+physical change
+
+.SH "16 Which of these warning refers to a chemical property of the material?"
+
+B. Flammable
+
+.SH "17 Which of the following is a substance?"
+
+element
+
+.SH "18 Which of these properties can be used to help identify an unknown substance?"
+
+Specific heat
+
