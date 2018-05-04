@@ -1,0 +1,20 @@
+1. Viscosity
+2.
+
+program HelloWorld(output);
+begin
+        writeln('Hello World')
+end.
+(the answer is pascal)
+3. Pressure
+4. melting point
+5. Kinetic theory
+6. buoyancy
+7. a
+8. d
+9. c
+10. b
+11. A
+12. d
+13. c
+14. a
