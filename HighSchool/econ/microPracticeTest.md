@@ -1,62 +1,60 @@
-1. B
-2. c
-3. d
-4. b
-5. a
-6. c
-7. a
-8. d
-9. e
-10. e
-11. c
-12. b
-13. d
-14. e
-15. b
-16. e?
-17. b
-18. c
-19. e
-20. b
-21. b
-22. c
-23. c
-24. d
-25. c
-26. e
-27. c
-28. e
-29. c
-30. a
-31. e
-32. b
-33. c
-34. a
-35. c
-36. a
-37. b
-38. c
-39. b
-40. c
-41. e?
-42. c
-43. b?
-44. e
-45. a?
-46. b
-47. c?
-48. a
-49. d
-50. a?
-51. c
-52. e?
-53. b
-54. a
-55. d
-56. e?
-57. c?
-58. d
-59. b
-60. d
-
-
+B            c
+c            c
+d            c 
+b            c 
+a              
+c            c 
+a            c 
+d            c 
+e              
+e            c 
+c            c 
+b            c 
+d              
+e            c
+b            c 
+e?             
+b            c
+c            
+e            c
+b             
+b             
+c            c
+c             
+d            c
+c             
+e             
+c             
+e            c
+c            c
+a            c
+e             
+b             
+c            c
+a             
+c            c
+a            c
+b             
+c             
+b             
+c             
+e?           c 
+c             
+b?           c 
+e            c
+a?             
+b            c
+c?           
+a             
+d             
+a?             
+c            c 
+e?            
+b             
+a            c 
+d            c
+e?            
+c?           c  
+d            c
+b            c
+d             

@@ -1,0 +1,61 @@
+a        
+a       c
+b?      c 
+b       c
+b       c
+e       c
+c        
+c       c
+c       c
+c        
+a       c
+e       c
+d       c
+d       c
+d        
+e       c
+c       c
+b       c
+a       c
+a       c
+b       c
+Ge        
+d       c
+e       c
+a       c
+a        
+a       c
+d       c
+b       c
+d       c
+Gc        
+c       c
+b       c
+d       c
+a        
+a        
+b       c
+b        
+Gc      c 
+a       c
+d       c
+b        
+e       c
+a       c
+d       c
+e       c
+c       c
+a       c
+c        
+b       c
+b        
+c       c
+e       c
+b        
+a       c
+e       c
+b        
+c        
+a        
+e       c
+
