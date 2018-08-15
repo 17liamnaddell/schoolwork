@@ -1,5 +1,5 @@
 .TH "economics ch 16" 1 "16" "ECON" "ch"
-.SH "Amoung monopoly, oligopoly, monopolistic competition, and perfect competition, how would you classify the markets for each of the following drinks?"
+.SH "Among monopoly, oligopoly, monopolistic competition, and perfect competition, how would you classify the markets for each of the following drinks?"
 
 a. tap water
 
